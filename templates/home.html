@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %}Home - Tim Ferriss Podcast Book Recommendations{% endblock %}
+
+{% block content %}
+    <div>
+        <h2>Hello World!!</h2>
+    </div>
+
+    <div>
+        {% for podcast in podcasts %}
+            <div>
+                <h3>ID : {{ podcast.key.id() }}</h3>
+                <h4><a href="{{ podcast.href }}" target="_blank">{{ podcast.title }}</a></h4>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock content %}
+
+
+
+
+
+
+
+
+
+
+

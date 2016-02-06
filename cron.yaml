@@ -1,0 +1,4 @@
+cron:
+- description: Check for podcast updates on fourourworkweek.com/podcast
+  url: /podcast-check/check
+  schedule: every 24 hours

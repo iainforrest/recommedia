@@ -1,0 +1,173 @@
+/* This is a CSS comment.*/
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "georgia", serif;
+	font-size: 16px;
+	line-height: 1.48em;
+	color: #2a2a2a;
+	max-width: 1000px;
+	margin: 10px auto;
+	background-image: url(../images/paper_texture.png);
+	background-repeat: repeat;
+}
+
+h1 {
+	font-family: impact;
+	text-align: center;
+	font-size: 40px;
+	color: #15052D;
+}
+
+h2 {
+	font-family: helvetica;
+	text-align: center;
+	font-size: 28px;
+	color:#fff;
+}
+
+h3 {
+	font-size: 22px;
+	font-weight: bold;
+	margin-left: -3%;
+}
+
+h4 {
+	font-family: helvetica;
+	color: #15052D;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.back-to-top {
+	display: none;
+	position: fixed;
+	bottom: -10px;
+	right: 20px;
+	z-index: 100;
+	height: 50px;
+	width: 150px;
+	background-color: red;
+	border-radius: 10px;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 10px;
+}
+
+.back-to-top-text {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 18px;
+	color: #fff;
+}
+
+.drop-menu,
+.drop-menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.drop-menu li {
+	position: relative;
+}
+
+.drop-menu a {
+	padding: 10px 20px;
+	display: block;
+	text-decoration: none;
+	width: 150px;
+	color: #FFF;
+}
+
+.drop-menu a:hover {
+	background: #304A6D;
+}
+
+.drop-menu > li {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.drop-menu > li:first-child {
+	margin-left: 0;
+}
+
+.drop-menu > li > a {}
+
+.drop-menu > li > a:hover {}
+
+.drop-menu > li:hover > ul {
+	display: block;
+}
+
+.drop-two{
+	text-align: left;
+	width: auto;
+	display: none;
+	background: #265290;
+	position: absolute;
+	top: 100%;
+	left: 0%;
+	z-index: 999;
+}
+
+.drop-two li a {
+	border: 1px solid #304A6D;
+}
+
+.drop-two li a:hover {}
+
+.drop-two > li:hover > ul {
+	display: block;
+}
+
+.drop-three {
+	text-align: left;
+	display: none;
+	background: #2E7EEF;
+	position: absolute;
+	left: 100%;
+	top: 0%;
+	z-index: 999;
+}
+
+.drop-three li {}
+.drop-three li a {}
+.drop-three li a:hover {}
+
+.fixed-menu {
+	text-align: center;
+	position:fixed;
+	top:0;
+	width: 1000px;
+	margin: 0px auto;
+	border: 1px solid;
+}
+
+.header-info {
+	height: 150px;
+	text-align: center;
+}
+
+.menu-background{
+	background: #507dbc;
+	border-radius: 10px;
+	padding-left: 20px;
+	z-index: 9999;
+}
+
+.menu-selected {
+	background: #304A6D;
+}
+
+#top {
+	padding-top: 30px;
+	line-height: 1.25em;
+
+}

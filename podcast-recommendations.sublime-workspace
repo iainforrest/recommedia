@@ -1,0 +1,1135 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"all",
+				"all_podcast_keys"
+			],
+			[
+				"podca",
+				"podcast_check"
+			],
+			[
+				"process",
+				"process_podcast_page"
+			],
+			[
+				"parent",
+				"parent_db"
+			],
+			[
+				"string",
+				"StringProperty"
+			],
+			[
+				"podcas",
+				"podcast"
+			],
+			[
+				"com",
+				"compile"
+			],
+			[
+				"pare",
+				"parent_db"
+			],
+			[
+				"Id",
+				"ids"
+			],
+			[
+				"S",
+				"StructureProperty"
+			],
+			[
+				"po",
+				"podcastDB_name"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"render",
+				"render_kwargs"
+			],
+			[
+				"rend",
+				"render_kwargs"
+			],
+			[
+				"la",
+				"lat"
+			],
+			[
+				"locat",
+				"location_dict"
+			],
+			[
+				"de",
+				"default_user_location"
+			],
+			[
+				"ip",
+				"ip_address"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"user",
+				"user_location"
+			],
+			[
+				"L",
+				"Location"
+			],
+			[
+				"loc",
+				"location_json"
+			],
+			[
+				"xml",
+				"xml_doc"
+			],
+			[
+				"api",
+				"api_return"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"in",
+				"indexed"
+			],
+			[
+				"marin",
+				"margin"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"back",
+				"back-to-top"
+			],
+			[
+				"bac",
+				"back-to-top"
+			],
+			[
+				"ad",
+				"admin_emails"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"use",
+				"user_query"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"get",
+				"get_user"
+			],
+			[
+				"dlee",
+				"delete_message"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"dele",
+				"delete_message"
+			],
+			[
+				"dle",
+				"delete_message"
+			],
+			[
+				"tet",
+				"text-indent"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"delet",
+				"delete_key"
+			],
+			[
+				"dlete",
+				"delete_key"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"stage_",
+				"stage_query"
+			],
+			[
+				"Comm",
+				"Comment"
+			],
+			[
+				"stag",
+				"stages_query"
+			],
+			[
+				"COmmen",
+				"CommentBook"
+			],
+			[
+				"Com",
+				"Comment"
+			],
+			[
+				"Comment",
+				"CommentBook"
+			],
+			[
+				"co",
+				"commentsforhtml"
+			],
+			[
+				"sat",
+				"stage3"
+			],
+			[
+				"stage",
+				"stage2"
+			],
+			[
+				"comment",
+				"comments"
+			],
+			[
+				"pos",
+				"pos-f	position: fixed;"
+			],
+			[
+				"temp",
+				"temp_path"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"templa",
+				"template_name"
+			],
+			[
+				"m",
+				"MainHandler"
+			],
+			[
+				"te",
+				"template_values"
+			],
+			[
+				"tem",
+				"template_vars"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"fi",
+				"FizzbuzzHandler"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"requ",
+				"RequestHandler"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"wr",
+				"write"
+			],
+			[
+				"write",
+				"write_form"
+			],
+			[
+				"us",
+				"user_year"
+			],
+			[
+				"vali",
+				"valid_year"
+			],
+			[
+				"valid",
+				"valid_day"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"c",
+				"current_height"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"sp",
+				"span	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/base.html",
+			"settings":
+			{
+				"buffer_size": 497,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/header.html",
+			"settings":
+			{
+				"buffer_size": 660,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/home.html",
+			"settings":
+			{
+				"buffer_size": 478,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "intro-programming.py",
+			"settings":
+			{
+				"buffer_size": 9554,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cron.yaml",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 2202,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "podcast-recommendations.py",
+			"settings":
+			{
+				"buffer_size": 5020,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\"\"\"\nclass Person(ndb.Model):\n    '''Sub-class model for Podcast interviewee'''\n    first_name = ndb.StringProperty()\n    last_name = ndb.StringProperty(default='')\n    twitter_handle = ndb.StringProperty(default='')\n    website = ndb.StringProperty(default='')\n\nclass Reference(ndb.Model):\n    '''Model for books and other recommended references.\n    Title to be striped and used as the key'''\n    author = StructureProperty(Person)\n    href = ndb.StringProperty()\n\"\"\"\nclass Podcast(ndb.Model):\n    '''Datastore Model for published podcasts. Postcast ids striped from the\n    html page are to be used as key names'''\n    title = ndb.StringProperty()\n    href = ndb.StringProperty()\n    #image_href = ndb.StringProperty()\n    #interviewee = ndb.StructureProperty(Person)\n    #posted_date = ndb.DateTimeProperty()\n    #references =  ndb.StringProperty(repeated=True) #list of link_ids\n",
+			"file": "db_classes.py",
+			"file_size": 904,
+			"file_write_time": 130991700652224033,
+			"settings":
+			{
+				"buffer_size": 883,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.yaml",
+			"settings":
+			{
+				"buffer_size": 485,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stylesheets/style.css",
+			"settings":
+			{
+				"buffer_size": 2356,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git:",
+				"Git: Init"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Add Repository"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 656.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/podcast-recommendations",
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/podcast-recommendations/js",
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/podcast-recommendations/stylesheets",
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/podcast-recommendations/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/offline/html/Jamie Foxx on Workout Routines, Success Habits, and Untold Hollywood Stories _ The Blog of Author Tim Ferriss.html",
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/offline/html/Derek Sivers Reloaded.html",
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/podcast-recommendations/index.yaml",
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/podcast-recommendations/app.yaml",
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/podcast-recommendations/cron.yaml",
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/podcast-recommendations/main.py",
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/podcast-recommendations/favicon.ico",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/stage 5/proj 5/templates/stage1.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/stage 5/proj 5/templates/stage3.html",
+		"/C/random/Windows 7 Ultimate Sp1 x64 En-Us ESD July 2015 Pre-Activation=-{TEAM OS}=-/Win_7_ Ultimate_ Sp1_ En-Us_ July_ 2015_ x64.iso.md5",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro comp science/iain_forrest_socialnetwork.py",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro comp science/gamers network.py",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/stage 5/ascii chan/ascii-chan-ipnd-incomplete/index.yaml",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/stage 5/ascii chan/ascii-chan-ipnd-incomplete/main.py",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/stage 5/ascii chan/ascii-chan-ipnd-incomplete/app.yaml",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/stage 5/javascript.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/stage 5/frontend-nanodegree-resume-master/index.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/intro-programming.py",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/app.yaml",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/stylesheets/style.css",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/Templates/default_.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/Stage 4/forms.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/Templates/stage4.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/Templates/stage3.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/Templates/stage2.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/Templates/stage1.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/Templates/adminUI.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/Templates/base.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/Templates/header.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/Templates/comments.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/Stage 4/helloworld/app.yaml",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/Stage 4/wallbook/wallbook.py",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/intro-programming-old.py",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/Stage 4/Using Templates/using-templates.py",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 2/index.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/style.css",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/index.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/jinja-handler.py",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/Templates/stage.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/Stage 4/Using Templates/templates/shopping-list.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/Stage 4/Using Templates/templates/base.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 4/menu.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/Stage 4/Using Templates/templates/fizzbuzz.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/Stage 4/Using Templates/app.yaml",
+		"/C/random/forms.html",
+		"/C/Users/Iain Forrest/Documents/study/python/Basic Jinja Setup/using-templates.py",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/Stage 4/Using Templates/templates/form.html",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/Stage 4/Using Templates/using_templates.py",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/Stage 4/Using Templates/main.py",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/Stage 4/helloworld/helloworld.py",
+		"/C/Users/Iain Forrest/Documents/company/SPENDMONEY.TXT",
+		"/C/Users/Iain Forrest/Documents/company/pocketsmith-search-t.txt",
+		"/C/Users/Iain Forrest/Documents/company/test.txt",
+		"/C/Users/Iain Forrest/Documents/company/SPENDMONEY-new.txt",
+		"/C/Users/Iain Forrest/Documents/company/pocketsmith-search -txt.txt",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/proj 2/example.py",
+		"/C/Users/Iain Forrest/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Python27/Scripts/twilio/rest/client.py",
+		"/C/Users/Iain Forrest/Documents/study/Udacity/intro to Programming/stage 3/countries.csv",
+		"/C/Users/Iain Forrest/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Iain Forrest/AppData/Roaming/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/C/Users/Iain Forrest/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2",
+			"comment",
+			"logging",
+			"json",
+			"scrolltop",
+			"urllib",
+			"-3",
+			"less-4-3",
+			"ss-4-3",
+			"e1",
+			"</p>",
+			"<p>",
+			"</p>",
+			"<p>",
+			"</p>",
+			"<p>",
+			"</p>",
+			"<p>",
+			"</p>",
+			"<p>",
+			"</p>",
+			"<p>",
+			"</p>",
+			"<p>",
+			"td",
+			" width=\"376\"",
+			"</p>",
+			"<p>",
+			"table",
+			" width=\"106\"",
+			" width=\"76\"",
+			"td",
+			"</p>",
+			"<p>",
+			"p",
+			"&#125;",
+			"&#123;",
+			"&lsquo;",
+			"}",
+			"{",
+			"&rdquo;",
+			"&rsquo;",
+			"h4",
+			"h2",
+			"div",
+			"<span >",
+			"commentsforhtml",
+			"Person",
+			"coment",
+			"guestbook",
+			"guest",
+			"greeting",
+			"Greeting",
+			"greeting",
+			"Greeting",
+			"greeting",
+			"guestbook",
+			"GUESTBOOK",
+			"guestbook",
+			"GUESTBOOK",
+			"guestbook",
+			"Guestbook",
+			"guestbook",
+			"GUESTBOOK",
+			"guestbook",
+			"Guestbook",
+			"guestbook",
+			"Guestbook",
+			"guestbook",
+			"Guestbook",
+			"guestbook",
+			"Guestbook",
+			"guestbook",
+			"guestbook_name",
+			"GUESTBOOK_NAME",
+			"greeting",
+			"cgi",
+			"path",
+			"#less-3",
+			"#less-2",
+			"#less-1",
+			"less-1",
+			"roman",
+			"auto",
+			"ol",
+			"LIMITED",
+			"-",
+			",,,,",
+			"h1, h2, p",
+			"H2",
+			"H1",
+			"population",
+			"growth_rate",
+			"max_height",
+			"grow_taller",
+			"Human",
+			"human",
+			"white",
+			"h3",
+			"'",
+			"<p>",
+			"h3",
+			"number",
+			"ul",
+			"u",
+			"white",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"'",
+			"&#125;",
+			"&#123;",
+			"\"",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								497,
+								497
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "intro-programming.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								892,
+								892
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1944.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "cron.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								890,
+								961
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "podcast-recommendations.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4868,
+								4868
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "db_classes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								883,
+								883
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								484,
+								484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "stylesheets/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2356,
+								2356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "podcast-recommendations.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
