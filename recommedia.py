@@ -28,6 +28,17 @@ podcast_find_pattern = '''
         .*?<\/p>        #move to end of the post paragraph
         '''
 
+book_find_pattern = '''
+        <li><a\shref=" #search for <li> item followed by a link
+        (.*?)		         #capture the href (amazon) inside the quotes
+        \?tag.*?>      #but skip the affiliate link
+        (.*?)          #capture the title of the book inside the <a> tags
+        <\/a>
+        \sby\s         #make sure link is followed by " by " this ensures a book link
+        (\w+\W\w+)     #capture the following author name (word,whitespace,word)
+        <\/li>         #searched for text finished with </li>
+        '''
+
 db_parent_pattern = 'http\:\/\/w*\.?(.*?)\.com' #matches with or without www
 
 
@@ -69,8 +80,19 @@ def get_page(url):
     '''returns unescaped html text from url and
     domain name for the ancestor ndb name'''
     parent_db = get_re(db_parent_pattern, url, '', 'search')
-    p = urllib2.urlopen(url)
-    main_page = unescape(p.read().decode('utf-8'))
+    with closing(urllib.urlopen(url)) as page:
+        main_page = unescape(page.read().decode('utf-8'))
+    try:
+        start = main_page.index('<article')
+        finish = main_page.index('</article')
+    except ValueError:
+        try:
+            start = main_page.index('<body')
+            finish = main_page.find('</body')
+        except ValueError:
+            start, finish = 0,len(main_page)
+    else:
+        main_page = main_page[start:finish]
     return main_page, parent_db
 
 def get_re(pattern, text, flags='', re_type='findall'):
@@ -87,6 +109,11 @@ def get_re(pattern, text, flags='', re_type='findall'):
         result = expression.findall(text)
     else: result = None
     return result if result else None
+
+def process_podcast_page(http):
+    #some code goes in here
+    books = get_re(book_find_pattern, pod_page, '(?x)', 'findall')
+
 
 def process_matches(matched_podcasts, parent_db):
     '''Query the datastore for all podcast keys,
@@ -120,6 +147,7 @@ class MainHandler(webapp2.RequestHandler):
         for http in http_list:
             main_page, parent = get_page(http)
             podcasts = get_re(podcast_find_pattern, main_page, '(?xs)','findall')
+            #above returns list of podcasts in tuple [(id,href,title),...]
             if podcasts: process_matches(podcasts, parent)
 
 app = webapp2.WSGIApplication([

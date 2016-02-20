@@ -8,13 +8,14 @@ class Person(ndb.Model):
     last_name = ndb.StringProperty(default='')
     twitter_handle = ndb.StringProperty(default='')
     website = ndb.StringProperty(default='')
-
+"""
 class Reference(ndb.Model):
     '''Model for books and other recommended references.
-    Title to be striped and used as the key'''
+    Auto generated ID used as the key'''
+    title = StringProperty()
     author = StructureProperty(Person)
     href = ndb.StringProperty()
-"""
+
 class Podcast(ndb.Model):
     '''Datastore Model for published podcasts. Postcast ids striped from the
     html page are to be used as key names'''
