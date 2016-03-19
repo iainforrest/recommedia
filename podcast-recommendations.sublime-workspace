@@ -461,7 +461,7 @@
 		[
 			[
 				"git:",
-				"Git: Add All"
+				"Git: Status"
 			],
 			[
 				"ins",
@@ -488,9 +488,11 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 232.0,
 		"history":
 		[
+			"print \"hello\"",
+			"git log"
 		]
 	},
 	"distraction_free":
@@ -504,10 +506,13 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Iain Forrest/Dropbox/recommedia"
+		"/C/Users/Iain Forrest/Dropbox/projects/recommedia"
 	],
 	"file_history":
 	[
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/offline/podcast-recommendations - Testing.py",
+		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/recommedia/podcast-recommendations - Testing.py",
+		"/C/random/Love the Coopers (2015).720p.BluRay.x264.mkv/Keys.nfo",
 		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/recommedia/intro-programming.py",
 		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/offline/html/Jamie Foxx on Workout Routines, Success Habits, and Untold Hollywood Stories _ The Blog of Author Tim Ferriss.html",
 		"/C/Users/Iain Forrest/Documents/study/projects/ferriss books/offline/html/Derek Sivers Reloaded.html",
@@ -810,13 +815,13 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -844,7 +849,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -874,7 +879,7 @@
 						"translation.y": 324.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -890,8 +895,8 @@
 						"selection":
 						[
 							[
-								1116,
-								1116
+								1072,
+								1072
 							]
 						],
 						"settings":
@@ -902,10 +907,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 378.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -935,7 +940,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -965,7 +970,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -994,7 +999,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -1054,7 +1059,7 @@
 	"project": "podcast-recommendations.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 80.0
 	},
 	"save_all_on_build": true,
 	"select_file":
