@@ -182,18 +182,18 @@ def add_books_to_dict(list_of_books, referrer_podcast_id):
 
 def main(http):
     #offline main_page = html #get_page(http)
-    #main_page, parent_db = get_page(http)
+    main_page, parent_db = get_page(http)
 
 
-    #podcasts = get_re(podcast_find_pattern, main_page, '(?xs)','findall')
+    podcasts = get_re(podcast_find_pattern, main_page, '(?xs)','findall')
     #print podcasts[0]
-    '''
+
     for referrer, href, title in podcasts:
         books, parent_db = get_books_from_page(href)
         if books: add_books_to_dict(books,referrer)
-    '''
-    books, parent_db = get_books_from_page('http://fourhourworkweek.com/2015/07/05/stanley-mcchrystal/')
-    if books: add_books_to_dict(books,u'15554')
+
+    #books, parent_db = get_books_from_page('http://fourhourworkweek.com/2015/07/05/stanley-mcchrystal/')
+    #if books: add_books_to_dict(books,u'15554')
     print all_books
 
 

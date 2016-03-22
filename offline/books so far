@@ -1,0 +1,1968 @@
+{
+    u '<em>The Kite Runner</em>': {
+        'referrer': [u '12609'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Kite-Runner-10th-Anniversary/dp/159463193X/',
+        'author': u 'Khaled Hosseini'
+    }, u 'Understanding Comics': {
+        'referrer': [u '25428'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Understanding-Comics-The-Invisible-Art/dp/006097625X/',
+        'author': u 'Scott McCloud'
+    }, u 'The Bassoon King': {
+        'referrer': [u '23582'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Bassoon-King-Faith-Idiocy/dp/0525954538/',
+        'author': u 'Rainn Wilson'
+    }, u 'Mindless Eating': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Mindless-Eating-More-Than-Think/dp/0345526880/',
+        'author': u 'Brian Wansink'
+    }, u 'Edison: A Biography': {
+        'referrer': [u '12380'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Edison-Biography-Matthew-Josephson/dp/0965569934/',
+        'author': u 'Matthew Josephson'
+    }, u 'Art Of Dramatic Writing': {
+        'referrer': [u '21568'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Art-Dramatic-Writing-Creative-Interpretation/dp/9562915867/',
+        'author': u 'Lajos Egri'
+    }, u 'Autobiography of a Yogi': {
+        'referrer': [u '19791'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Autobiography-Yogi-Paramahansa-Yogananda/dp/8120818946/',
+        'author': u 'Paramahansa Yogananda'
+    }, u 'Working Days': {
+        'referrer': [u '15683'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Working-Days-Journals-Grapes-Wrath/dp/0140144579/',
+        'author': u 'John Steinbeck'
+    }, u 'Foundation': {
+        'referrer': [u '15448'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Foundation-Isaac-Asimov/dp/0553293354/',
+        'author': u 'Isaac Asimov'
+    }, u 'Save the Cat': {
+        'referrer': [u '14734', u '13232'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Save-Last-Book-Screenwriting-Youll/dp/1932907009/',
+        'author': u 'Blake Snyder'
+    }, u 'Kitchen Confidential': {
+        'referrer': [u '14734'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Kitchen-Confidential-Updated-Edition-Adventures/dp/0060899220/',
+        'author': u 'Anthony Bourdain'
+    }, u 'Meditations': {
+        'referrer': [u '25055', u '18643'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/exec/obidos/ASIN/0141395869/offsitoftimfe-20',
+        'author': u 'Marcus Aurelius'
+    }, u 'Into the Heart of the Mind': {
+        'referrer': [u '25613'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Into-Heart-Mind-Artificial-Intelligence/dp/0060153067/',
+        'author': u 'Frank Rose'
+    }, u 'The Dharma Bums': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Dharma-Bums-Jack-Kerouac/dp/B000KXZ8YU/',
+        'author': u 'Jack Kerouac'
+    }, u 'What If?': {
+        'referrer': [u '13771'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/What-If-Scientific-Hypothetical-Questions/dp/0544272994/',
+        'author': u 'Randall Munroe'
+    }, u 'The Art of the Start': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Art-Start-Time-Tested-Battle-Hardened/dp/1591840562/',
+        'author': u 'Guy Kawasaki'
+    }, u 'The Complete Short Stories Of Ernest Hemingway': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Complete-Short-Stories-Ernest-Hemingway-ebook/dp/B00120954E/',
+        'author': u 'Ernest Hemingway'
+    }, u 'Coming into the Country': {
+        'referrer': [u '22619'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/exec/obidos/ASIN/0374522871/offsitoftimfe-20',
+        'author': u 'John McPhee'
+    }, u 'Blue Ocean Strategy': {
+        'referrer': [u '12453'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Blue-Ocean-Strategy-Uncontested-Competition/dp/1591396190/',
+        'author': u 'Chan Kim'
+    }, u 'A Path with Heart': {
+        'referrer': [u '15668'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Path-Heart-Through-Promises-Spiritual/dp/0553372114/',
+        'author': u 'Jack Kornfield'
+    }, u 'Buffett: The Making of an American Capitalist': {
+        'referrer': [u '21914'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Buffett-The-Making-American-Capitalist/dp/0812979273/',
+        'author': u 'Roger Lowenstein'
+    }, u 'Grizzly Man': {
+        'referrer': [u '13232'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Grizzly-Man-Timothy-Treadwell/dp/B000BMY2NS/',
+        'author': u 'Werner Herzog'
+    }, u 'The Omnivore\u2019s Dilemma': {
+        'referrer': [u '23905'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Omnivores-Dilemma-Natural-History/dp/0143038583/',
+        'author': u 'Michael Pollan'
+    }, u 'Bird By Bird': {
+        'referrer': [u '13232'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/',
+        'author': u 'Anne Lamott'
+    }, u 'Don\u2019t Make Me Think': {
+        'referrer': [u '13331'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758/',
+        'author': u 'Steve Krug'
+    }, u 'Margin of Safety': {
+        'referrer': [u '21914'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Margin-Safety-Risk-Averse-Strategies-Thoughtful/dp/0887305105/',
+        'author': u 'Seth Klarman'
+    }, u 'Our Final Invention': {
+        'referrer': [u '15607'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376/',
+        'author': u 'James Barrat'
+    }, u 'The Blind Man Who Taught Himself to See': {
+        'referrer': [u '13958'],
+        'counter': 1,
+        'href': u 'http://www.mensjournal.com/magazine/the-blind-man-who-taught-himself-to-see-20120504',
+        'author': u 'Michael Finkel'
+    }, u 'As a Man Thinketh': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Thinketh-Tarcher-Family-Inspirational-Library/dp/1585425648/',
+        'author': u 'James Allen'
+    }, u 'Love You Forever': {
+        'referrer': [u '21568'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Love-You-Forever-Robert-Munsch/dp/0920668372/',
+        'author': u 'Robert Munsch'
+    }, u 'Kettlebell: Simple and Sinister': {
+        'referrer': [u '14141'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Kettlebell-Simple-Sinister-Pavel-Tsatsouline-ebook/dp/B00GF2HP9G/',
+        'author': u 'Pavel Tsatsouline'
+    }, u '<em>The Social Animal</em>': {
+        'referrer': [u '13102'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Social-Animal-Elliot-Aronson/dp/1429233419/',
+        'author': u 'Elliot Aronson'
+    }, u 'Maker vs. Manager': {
+        'referrer': [u '12380'],
+        'counter': 1,
+        'href': u 'http://www.paulgraham.com/makersschedule.html',
+        'author': u 'Paul Graham'
+    }, u 'The Promise of a Pencil': {
+        'referrer': [u '26323'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Promise-Pencil-Ordinary-Extraordinary/dp/1476730636/',
+        'author': u 'Adam Braun'
+    }, u 'Giving Good Weight': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Giving-Good-Weight-John-McPhee/dp/0374516006/',
+        'author': u 'John McPhee'
+    }, u 'Watchmen': {
+        'referrer': [u '21568'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Watchmen-Alan-Moore/dp/0930289234/',
+        'author': u 'Alan Moore'
+    }, u 'The Prophet': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Prophet-Vintage-International-Kahlil-Gibran/dp/1101970782/',
+        'author': u 'Kahlil Gibran'
+    }, u 'The Diamond Age': {
+        'referrer': [u '25613', u '25428'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/The-Diamond-Age-Illustrated-Spectra/dp/0553380966/',
+        'author': u 'Neal Stephenson'
+    }, u 'Without Sanctuary: Lynching Photography in America': {
+        'referrer': [u '23839'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/exec/obidos/ASIN/0944092691/offsitoftimfe-20',
+        'author': u 'James Allen'
+    }, u 'Dark Matter and the Dinosaurs: The Astounding Interconnectedness of the Universe': {
+        'referrer': [u '22720'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Dark-Matter-Dinosaurs-Astounding-Interconnectedness/dp/0062328476/',
+        'author': u 'Lisa Randall'
+    }, u 'The Book of Life: Daily Meditations with Krishnamurti': {
+        'referrer': [u '18643'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Book-Life-Meditations-Krishnamurti/dp/0060648791/',
+        'author': u 'Jiddu Krishnamurti'
+    }, u 'The Naked Warrior': {
+        'referrer': [u '14141'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Naked-Warrior-Pavel-Tsatsouline/dp/0938045555/',
+        'author': u 'Pavel Tsatsouline'
+    }, u 'Rigamortis': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://youtu.be/yh6QxtRpSH8',
+        'author': u 'Kendrick Lamar'
+    }, u 'The Road to Character': {
+        'referrer': [u '15609'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Road-Character-David-Brooks/dp/081299325X/',
+        'author': u 'David Brooks'
+    }, u 'Fooled By Randomness': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/',
+        'author': u 'Nassim Taleb'
+    }, u 'Secrets of Power Negotiating': {
+        'referrer': [u '21914'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Secrets-Power-Negotiating-15th-Anniversary/dp/1601631391/',
+        'author': u 'Roger Dawson'
+    }, u 'A Complaint Free World': {
+        'referrer': [u '23635'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Complaint-Free-World-Complaining-Enjoying/dp/0770436390/',
+        'author': u 'Will Bowen'
+    }, u 'Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Brain-Rules-Updated-Expanded-Principles/dp/098326337X/',
+        'author': u 'John Medina'
+    }, u 'The Second World War': {
+        'referrer': [u '21911'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Second-World-John-Keegan/dp/0143035738/',
+        'author': u 'John Keegan'
+    }, u '<em>Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business</em> My Way': {
+        'referrer': [u '12609'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748/',
+        'author': u 'Richard Branson'
+    }, u 'Super Sad True Love Story': {
+        'referrer': [u '15505'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Super-Sad-True-Love-Story/dp/0812977866/',
+        'author': u 'Gary Shteyngart'
+    }, u 'The War of Art': {
+        'referrer': [u '25428', u '13321', u '13321', u '12380'],
+        'counter': 4,
+        'href': u 'http://www.amazon.com/The-War-Art-Winning-Creative/dp/1501260626/',
+        'author': u 'Steven Pressfield'
+    }, u 'The Pema Chodron Audio Collection': {
+        'referrer': [u '25428'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Pema-Chodron-Audio-Collection/dp/1591791596/',
+        'author': u 'Pema Chodron'
+    }, u 'The Hitchhiker\u2019s Guide to the Galaxy': {
+        'referrer': [u '21568'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802/',
+        'author': u 'Douglas Adams'
+    }, u '<em>Outliers: The Story of Success</em>': {
+        'referrer': [u '12609'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930/',
+        'author': u 'Malcolm Gladwell'
+    }, u 'Zorba the Greek': {
+        'referrer': [u '18643'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Zorba-Greek-Nikos-Kazantzakis/dp/1476782814/',
+        'author': u 'Nikos Kazantzakis'
+    }, u 'Lying': {
+        'referrer': [u '18643', u '15505'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Lying-Sam-Harris/dp/1940051002/',
+        'author': u 'Sam Harris'
+    }, u 'The Power of Myth': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Power-Myth-Joseph-Campbell/dp/0385418868/',
+        'author': u 'Joseph Campbell'
+    }, u 'No Man\u2019s Land': {
+        'referrer': [u '21632'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/No-Mans-Land-Growing-Companies/dp/1591842492/',
+        'author': u 'Doug Tatum'
+    }, u 'The Year Without Pants': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Year-Without-Pants-WordPress-com/dp/1118660633/',
+        'author': u 'Scott Berkun'
+    }, u 'Oscar and Lucinda': {
+        'referrer': [u '13771'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Oscar-Lucinda-Peter-Carey/dp/0679777504/',
+        'author': u 'Oscar Carey'
+    }, u 'Excellent Sheep': {
+        'referrer': [u '13283'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Excellent-Sheep-Miseducation-American-Meaningful/dp/1476702713/',
+        'author': u 'William Deresiewicz'
+    }, u 'The Kite Runner': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Kite-Runner-10th-Anniversary/dp/159463193X/',
+        'author': u 'Khaled Hosseini'
+    }, u 'Open: An Autobiography': {
+        'referrer': [u '25783'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/exec/obidos/ASIN/0307388409/offsitoftimfe-20',
+        'author': u 'Andre Agassi'
+    }, u 'Finite and Invite Games': {
+        'referrer': [u '15681'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/',
+        'author': u 'James Carse'
+    }, u 'Cancer as a Metabolic Disease': {
+        'referrer': [u '21179'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Cancer-Metabolic-Disease-Management-Prevention/dp/0470584920/',
+        'author': u 'Thomas Seyfried'
+    }, u 'A Fan\u2019s Notes': {
+        'referrer': [u '21662'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/A-Fans-Notes-Frederick-Exley/dp/0679720766/',
+        'author': u 'Frederick Exley'
+    }, u '<em>The Robert Collier Letter Book</em>': {
+        'referrer': [u '13102'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Robert-Collier-Letter-Book/dp/8087830679/',
+        'author': u 'Robert Collier'
+    }, u 'Dune': {
+        'referrer': [u '15448'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Dune-Frank-Herbert/dp/0441172717/',
+        'author': u 'Frank Herbert'
+    }, u 'Life 101': {
+        'referrer': [u '15687'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Life-101-Everything-Learned-School-But/dp/0931580781/',
+        'author': u 'Peter McWilliams'
+    }, u 'The Last Word': {
+        'referrer': [u '15607'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Last-Word-Thomas-Nagel/dp/0195149831/',
+        'author': u 'Thomas Nagel'
+    }, u 'The Magus': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Magus-John-Fowles/dp/0440351626/',
+        'author': u 'John Fowles'
+    }, u 'Thinking, Fast and Slow': {
+        'referrer': [u '21914', u '15328'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/',
+        'author': u 'Daniel Kahneman'
+    }, u 'Winners Never Cheat': {
+        'referrer': [u '14565'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Winners-Never-Cheat-Everyday-Forgotten/dp/0131863665/',
+        'author': u 'John Huntsman'
+    }, u 'Mortal Questions': {
+        'referrer': [u '15607'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Mortal-Questions-Canto-Thomas-Nagel/dp/0521406765/',
+        'author': u 'Thomas Nagel'
+    }, u '<em>Choose Yourself!</em>': {
+        'referrer': [u '12609'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Choose-Yourself-James-Altucher/dp/1490313370/',
+        'author': u 'James Altucher'
+    }, u 'The Innovators': {
+        'referrer': [u '15554'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/147670869X"',
+        'author': u 'Walter Isaacson'
+    }, u 'A Field Guide to the Birds of North America': {
+        'referrer': [u '14022'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/National-Geographic-Field-America-Edition/dp/1426208286/',
+        'author': u 'National Geographic'
+    }, u 'Jack Kennedy': {
+        'referrer': [u '25941'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Jack-Kennedy-Elusive-Chris-Matthews/dp/1451635095/',
+        'author': u 'Chris Matthews'
+    }, u 'Slow Sex': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Slow-Sex-Female-Orgasm-Paperback/dp/B00FKY8LSO/',
+        'author': u 'Nicole Daedone'
+    }, u 'When Things Fall Apart': {
+        'referrer': [u '15668'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/When-Things-Fall-Apart-Difficult/dp/1570623449',
+        'author': u 'Pema Chodron'
+    }, u 'A Feast of Snakes': {
+        'referrer': [u '26323'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/A-Feast-Snakes-Novel/dp/0684842483/',
+        'author': u 'Harry Crews'
+    }, u 'The Fantasy Bond': {
+        'referrer': [u '15505'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Fantasy-Bond-Structure-Psychological/dp/0967668409/',
+        'author': u 'Robert Firestone'
+    }, u 'The Starfish and the Spider': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Starfish-Spider-Unstoppable-Organizations/dp/1591841836/',
+        'author': u 'Ori Brafman'
+    }, u 'Lights Out: A Cyberattack, A Nation Unprepared, Surviving the Aftermath': {
+        'referrer': [u '25805'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/exec/obidos/ASIN/055341996X/offsitoftimfe-20',
+        'author': u 'Ted Koppel'
+    }, u 'Women, Fire, and Dangerous Things': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Women-Dangerous-Things-George-Lakoff/dp/0226468046/',
+        'author': u 'George Lakoff'
+    }, u 'Generations': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Generations-History-Americas-Future-1584/dp/0688119123/',
+        'author': u 'William Strauss'
+    }, u 'Green Hills of Africa': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Green-Hills-Africa-Ernest-Hemingway/dp/B003AWQRXE/',
+        'author': u 'Ernest Hemingway'
+    }, u 'The Emperor of Scent': {
+        'referrer': [u '24554'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Emperor-Scent-Perfume-Obsession/dp/0375759816/',
+        'author': u 'Chandler Burr'
+    }, u 'The Hero with a Thousand Faces': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Thousand-Faces-Collected-Joseph-Campbell/dp/1577315936/',
+        'author': u 'Joseph Campbell'
+    }, u 'Bad Science': {
+        'referrer': [u '25613', u '15687', u '13283'],
+        'counter': 3,
+        'href': u 'http://www.amazon.com/Bad-Science-Quacks-Pharma-Flacks/dp/0865479186/',
+        'author': u 'Ben Goldacre'
+    }, u 'How to Measure Anything': {
+        'referrer': [u '13331'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273/',
+        'author': u 'Douglas Hubbard'
+    }, u 'The Robert Collier Letter Book': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Robert-Collier-Letter-Book/dp/8087830679/',
+        'author': u 'Robert Collier'
+    }, u 'The Making of a Blockbuster': {
+        'referrer': [u '24665'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Making-Blockbuster-Entertainment-Videotape/dp/0471159034/',
+        'author': u 'Gail DeGeorge'
+    }, u 'Who': {
+        'referrer': [u '19791'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Who-Geoff-Smart/dp/0345504194/',
+        'author': u 'Geoff Smart'
+    }, u 'The Walk': {
+        'referrer': [u '26323'],
+        'counter': 1,
+        'href': u 'http://www.imdb.com/title/tt3488710/',
+        'author': u 'Robert Zemeckis'
+    }, u 'The Oxford Book of Aphorisms': {
+        'referrer': [u '23428'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Oxford-Book-Aphorisms-Books-Prose/dp/0192804561/',
+        'author': u 'John Gross'
+    }, u 'Mastery': {
+        'referrer': [u '14640'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Mastery-Robert-Greene/dp/014312417X',
+        'author': u 'Robert Greene'
+    }, u '<em>Searching for Bobby Fischer: The Father of a Prodigy Observes the World of Chess</em>': {
+        'referrer': [u '12868'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Searching-Bobby-Fischer-Prodigy-Observes/dp/0140230386/',
+        'author': u 'Fred Waitzkin'
+    }, u 'Steal Like an Artist': {
+        'referrer': [u '13321', u '12453'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/',
+        'author': u 'Austin Kleon'
+    }, u 'Small Giants': {
+        'referrer': [u '21914'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Small-Giants-Companies-Choose-Instead/dp/1591841496/',
+        'author': u 'Bo Burlingham'
+    }, u 'Venture Deals': {
+        'referrer': [u '12146'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/0470929820/',
+        'author': u 'Brad Feld'
+    }, u 'The Origins of Virtue': {
+        'referrer': [u '18643'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Origins-Virtue-Instincts-Cooperation/dp/0140264450/',
+        'author': u 'Matt Ridley'
+    }, u '<em>Learning Not to Drown</em>': {
+        'referrer': [u '12700'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Learning-Not-Drown-Anna-Shinoda/dp/1416993932/',
+        'author': u 'Anna Shinoda'
+    }, u 'Becoming a Category of One': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Becoming-Category-One-Extraordinary-Comparison/dp/0470496355/',
+        'author': u 'Joe Calloway'
+    }, u 'The Secret Life of Salvadore Dali': {
+        'referrer': [u '18643'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Secret-Life-Salvador-Dover-History/dp/0486274543/',
+        'author': u 'Salvadore Dali'
+    }, u 'Outliers: The Story of Success': {
+        'referrer': [u '25783', u '13321'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/exec/obidos/ASIN/0316017930/offsitoftimfe-20',
+        'author': u 'Malcolm Gladwell'
+    }, u 'The Cosmos Series': {
+        'referrer': [u '15448'],
+        'counter': 1,
+        'href': u 'http://www.imdb.com/title/tt2395695/',
+        'author': u 'Carl Sagan'
+    }, u 'The Baron in the Trees': {
+        'referrer': [u '26395'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Baron-In-Trees/dp/0156106809/',
+        'author': u 'Italo Calvino'
+    }, u 'It Would Be So Nice If You Weren\u2019t Here': {
+        'referrer': [u '14734'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Would-Nice-You-Werent-Here/dp/0679731342/',
+        'author': u 'Charles Grodin'
+    }, u 'Motherless Brooklyn': {
+        'referrer': [u '26395', u '13771'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Motherless-Brooklyn-Jonathan-Lethem/dp/0375724834/',
+        'author': u 'Jonathan Lethem'
+    }, u 'Touching the Rock': {
+        'referrer': [u '13958'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Touching-Rock-An-Experience-Blindness/dp/067973547X/',
+        'author': u 'John Hull'
+    }, u '<em>Good to Great and the Social Sectors: A Monograph to Accompany Good to Great</em>': {
+        'referrer': [u '13058'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Good-Great-Social-Sectors-Monograph/dp/0977326403/',
+        'author': u 'Jim Collins'
+    }, u '<em>The Power of No: Because One Little Word Can Bring Health, Abundance, and Happiness</em>': {
+        'referrer': [u '12609'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Power-No-Because-Abundance-Happiness/dp/1401945872/',
+        'author': u 'James Altucher'
+    }, u 'The Power of Habit': {
+        'referrer': [u '25091', u '18643'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/The-Power-Habit-What-Business/dp/081298160X/',
+        'author': u 'Charles Duhigg'
+    }, u 'Extreme Ownership: How U.S. Navy SEALs Lead and Win': {
+        'referrer': [u '21295'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2/',
+        'author': u 'Jocko Willink'
+    }, u 'Going Clear': {
+        'referrer': [u '13283'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Going-Clear-Scientology-Hollywood-Prison/dp/0307700666/',
+        'author': u 'Lawrence Wright'
+    }, u 'House of Leaves': {
+        'referrer': [u '24067'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/House-Leaves-Mark-Z-Danielewski/dp/0375703764/',
+        'author': u 'Mark Danielewski'
+    }, u 'The Everything Store: Jeff Bezos and the Age of Amazon': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219282/',
+        'author': u 'Brad Stone'
+    }, u 'Moonwalking with Einstein': {
+        'referrer': [u '13958'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530/',
+        'author': u 'Joshua Foer'
+    }, u 'Benjamin Franklin': {
+        'referrer': [u '15554', u '13321', u '12380'],
+        'counter': 3,
+        'href': u 'http://www.amazon.com/Benjamin-Franklin-American-Walter-Isaacson/dp/074325807X/',
+        'author': u 'Walter Isaacson'
+    }, u '<em>The Black Swan</em>': {
+        'referrer': [u '12837'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/',
+        'author': u 'Nassim Taleb'
+    }, u 'Missoula: Rape and the Justice System in a College Town': {
+        'referrer': [u '22619'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/exec/obidos/ASIN/0385538731/offsitoftimfe-20',
+        'author': u 'Jon Krakauer'
+    }, u '<em>Cat\u2019s Cradle</em>': {
+        'referrer': [u '12868'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Cats-Cradle-Novel-Kurt-Vonnegut/dp/038533348X/',
+        'author': u 'Kurt Vonnegut'
+    }, u 'The Hours': {
+        'referrer': [u '13771'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Hours-Novel-Michael-Cunningham/dp/0312243022/',
+        'author': u 'Michael Cunningham'
+    }, u 'Car': {
+        'referrer': [u '26323'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Car-Novel-Harry-Crews/dp/068802145X/',
+        'author': u 'Harry Crews'
+    }, u 'A Geek in Japan': {
+        'referrer': [u '23905'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Geek-Japan-Discovering-Manga-Ceremony/dp/4805311290/',
+        'author': u 'Hector Garcia'
+    }, u 'Stumbling Upon Happiness': {
+        'referrer': [u '15607'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert/dp/1400077427/',
+        'author': u 'Daniel Gilbert'
+    }, u 'Live Your Truth': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Live-Your-Truth-Kamal-Ravikant/dp/0989584992/',
+        'author': u 'Kamal Ravikant'
+    }, u 'Brodo': {
+        'referrer': [u '26395'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Brodo-A-Bone-Broth-Cookbook/dp/0553459503/',
+        'author': u 'Marco Canora'
+    }, u 'What I Learned Losing $1 Million': {
+        'referrer': [u '14640'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Learned-Million-Columbia-Business-Publishing/dp/0231164688%20',
+        'author': u 'Jim Paul'
+    }, u 'The Old Man and the Sea': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Old-Man-Sea-Ernest-Hemingway-ebook/dp/B000FC0SH8/',
+        'author': u 'Ernest Hemingway'
+    }, u 'The Evolution Of Everything': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Evolution-Everything-Ideas-Emerge/dp/0062296000/',
+        'author': u 'Matt Ridley'
+    }, u '<em>Mindless Eating: Why We Eat More Than We Think Mass Market</em>': {
+        'referrer': [u '13102'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Mindless-Eating-More-Than-Think/dp/0345526880/',
+        'author': u 'Brian Wansink'
+    }, u 'Perfectly Reasonable Deviations from the Beaten Track': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Perfectly-Reasonable-Deviations-Beaten-Track/dp/0465023711/',
+        'author': u 'Richard Feynman'
+    }, u '<em>Grain Brain</em>': {
+        'referrer': [u '12837'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Grain-Brain-Surprising-Brains-Killers-ebook/dp/B00BAXFCPO/',
+        'author': u 'David Perlmutter'
+    }, u 'Once an Eagle': {
+        'referrer': [u '15554'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Once-Eagle-Anton-Myrer/dp/0062221620/',
+        'author': u 'Anton Myrer'
+    }, u 'Cat\u2019s Cradle': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Cats-Cradle-Novel-Kurt-Vonnegut/dp/038533348X/',
+        'author': u 'Kurt Vonnegut'
+    }, u 'The End of Faith': {
+        'referrer': [u '15607'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-End-Faith-Religion-Terror/dp/0393327655/',
+        'author': u 'Sam Harris'
+    }, u 'Mental Toughness Training for Sports': {
+        'referrer': [u '15554'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Mental-Toughness-Training-Sports-Excellence/dp/0452267951/',
+        'author': u 'James Loehr'
+    }, u 'How to Live': {
+        'referrer': [u '13321', u '12380'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/How-Live-Montaigne-question-attempts-ebook/dp/B003E8AK4Q/',
+        'author': u 'Sarah Bakewell'
+    }, u 'How to Find Your Purpose and Do What You Love': {
+        'referrer': [u '13164'],
+        'counter': 1,
+        'href': u 'http://www.brainpickings.org/2012/02/27/purpose-work-love/',
+        'author': u 'Maria Popova'
+    }, u 'Secrets of Closing the Sale': {
+        'referrer': [u '25428'],
+        'counter': 1,
+        'href': u 'http://www.audible.com/pd/Business/Secrets-of-Closing-the-Sale-Audiobook/B002V5BNFS/',
+        'author': u 'Zig Ziglar'
+    }, u 'The Conquest of Happiness': {
+        'referrer': [u '21568'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Conquest-Happiness-Bertrand-Russell/dp/087140673X/',
+        'author': u 'Bertrand Russell'
+    }, u '\u201cWhat Do You Care What Other People Think?\u201d': {
+        'referrer': [u '18643'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/What-Care-Other-People-Think/dp/0393320928/',
+        'author': u 'Richard Feynman'
+    }, u 'God is Not Great': {
+        'referrer': [u '15607'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/God-Is-Not-Great-Everything/dp/0446697966/',
+        'author': u 'Christopher Hitchens'
+    }, u 'Atlas Shrugged': {
+        'referrer': [u '13283', u '13321', u '13321'],
+        'counter': 3,
+        'href': u 'http://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145',
+        'author': u 'Ayn Rand'
+    }, u 'God\u2019s Debris': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Gods-Debris-A-Thought-Experiment/dp/0740747878/',
+        'author': u 'Scott Adams'
+    }, u 'Don\u2019t Shoot the Dog!': {
+        'referrer': [u '18643'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Dont-Shoot-Dog-Teaching-Training/dp/0553380397/',
+        'author': u 'Karen Pryor'
+    }, u '<em>Jesus\u2019 Son: Stories</em>': {
+        'referrer': [u '12837', u '12609'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Jesus-Son-Stories-Denis-Johnson/dp/031242874X/ref=tmm_pap_title_0?ie=UTF8&qid=undefined&sr=8-1/',
+        'author': u 'Denis Johnson'
+    }, u 'A Moveable Feast': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Moveable-Feast-Restored-Ernest-Hemingway-ebook/dp/B002F08230/',
+        'author': u 'Ernest Hemingway'
+    }, u 'Blink': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669/',
+        'author': u 'Malcolm Gladwell'
+    }, u 'Jailhouse Strong': {
+        'referrer': [u '15687'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Jailhouse-Strong-Interval-Josh-Bryant/dp/1512322539/',
+        'author': u 'Josh Bryant'
+    }, u 'Nostalgia Ultra': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://en.wikipedia.org/wiki/Nostalgia,_Ultra',
+        'author': u 'Frank Ocean'
+    }, u 'Hardstyle Abs': {
+        'referrer': [u '14141'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Hard-Style-Abs-Pavel-Tsatsouline-ebook/dp/B0097AMZ7K/ref=sr_1_1?s=books&ie=UTF8&qid=1421724078&sr=1-1&keywords=hard+style+abs+pavel&pebp=1421724085689&peasin=B0097AMZ7K',
+        'author': u 'Pavel Tsatsouline'
+    }, u 'Good Calories, Bad Calories': {
+        'referrer': [u '13854'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Good-Calories-Bad-Controversial-Science/dp/1400033462/',
+        'author': u 'Gary Taubes'
+    }, u 'The Singularity Is Near': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Singularity-Is-Near-Transcend/dp/0143037889/',
+        'author': u 'Ray Kurzweil'
+    }, u 'Preacher \u2013 Book One': {
+        'referrer': [u '21568'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Preacher-Book-One-Garth-Ennis/dp/1401240453',
+        'author': u 'Garth Ennis'
+    }, u 'True Refuge': {
+        'referrer': [u '15668'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/gp/product/0553807625/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0553807625&linkCode=as2&tag=offsitoftimfe-20&linkId=JUA645MWBLY2BP42"',
+        'author': u 'Tara Brach'
+    }, u 'The Graveyard Book': {
+        'referrer': [u '26323', u '25805', u '25428', u '24392', u '21179', u '13771'],
+        'counter': 6,
+        'href': u 'http://www.audible.com/pd/Teens/The-Graveyard-Book-Full-Cast-Production-Audiobook/B00LXHQO22/',
+        'author': u 'Neil Gaiman'
+    }, u 'Titan: The Life of John D. Rockefeller': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Titan-Life-John-Rockefeller-Vintage-ebook/dp/B000XUDGHG/',
+        'author': u 'Ron Cherow'
+    }, u 'Hard-Boiled Wonderland and the End of the World': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Hard-Boiled-Wonderland-End-World-International/dp/0679743464/',
+        'author': u 'Haruki Murakami'
+    }, u 'So Good They Can\u2019t Ignore You': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/',
+        'author': u 'Cal Newport'
+    }, u 'Free to Choose': {
+        'referrer': [u '14338'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Free-Choose-Statement-Milton-Friedman/dp/0156334607/',
+        'author': u 'Milton Friedman'
+    }, u 'The Richest Man in Babylon': {
+        'referrer': [u '21632'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Richest-Babylon-George-Clason/dp/1508524351/',
+        'author': u 'George Clason'
+    }, u 'I Seem to be a Verb': {
+        'referrer': [u '15151'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Seem-Be-Verb-Buckminster-Fuller/dp/1584235950/',
+        'author': u 'Buckminster Fuller'
+    }, u 'How to Fail at Almost Everything and Still Win Big': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com.au/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4/',
+        'author': u 'Scott Adams'
+    }, u 'Cinema Paradiso': {
+        'referrer': [u '26323'],
+        'counter': 1,
+        'href': u 'http://www.imdb.com/title/tt0095765/',
+        'author': u 'Giuseppe Tornatore'
+    }, u 'Self-Inflicted Wounds': {
+        'referrer': [u '12453'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Self-Inflicted-Wounds-Heartwarming-Tales-Humiliation/dp/0062223771/',
+        'author': u 'Aisha Tyler'
+    }, u 'The Churchill Factor: How One Man Made History': {
+        'referrer': [u '14338'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Churchill-Factor-Made-History/dp/1594633029/',
+        'author': u 'Boris Johnson'
+    }, u 'Reasons and Persons': {
+        'referrer': [u '23415', u '15607'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Reasons-Persons-Derek-Parfit/dp/019824908X/',
+        'author': u 'Derek Parfit'
+    }, u 'How to Stop Worrying and Start Living': {
+        'referrer': [u '20335'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/How-Stop-Worrying-Start-Living/dp/0671733354/',
+        'author': u 'Dale Carnegie'
+    }, u 'Easy Riders, Raging Bulls': {
+        'referrer': [u '23428'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/gp/product/0684857081/',
+        'author': u 'Peter Biskind'
+    }, u 'The Magic of Thinking Big': {
+        'referrer': [u '15151', u '13739'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/The-Magic-Thinking-David-Schwartz/dp/0671646788/',
+        'author': u 'David Schwartz'
+    }, u 'Super Intelligence': {
+        'referrer': [u '15607'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742/',
+        'author': u 'Nick Bostrom'
+    }, u 'On the Run': {
+        'referrer': [u '14234'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Run-Fugitive-Fieldwork-Encounters-Discoveries/dp/022613671X/',
+        'author': u 'Alice Gotham'
+    }, u 'Conscious Business': {
+        'referrer': [u '19611'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Conscious-Business-Build-through-Values/dp/1622032020/',
+        'author': u 'Fred Kofman'
+    }, u 'On Writing Well': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Writing-Well-30th-Anniversary-Edition/dp/0060891548/',
+        'author': u 'William Zinsser'
+    }, u 'The Truce': {
+        'referrer': [u '13283'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/This-Man-Truce-Primo-Levi/dp/0349100136/',
+        'author': u 'Primo Levi'
+    }, u '<em>The Hero\u2019s Journey</em>': {
+        'referrer': [u '12777'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Heros-Journey-Campbell-Collected/dp/1608681890/',
+        'author': u 'Joseph Campbell'
+    }, u 'Gates of Fire': {
+        'referrer': [u '15554'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Gates-Fire-Novel-Battle-Thermopylae/dp/0553580531/',
+        'author': u 'Steven Pressfield'
+    }, u 'The Untethered Soul': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Untethered-Soul-Journey-Yourself/dp/1572245379/',
+        'author': u 'Michael Singer'
+    }, u 'Stranger in a Strange Land': {
+        'referrer': [u '15448'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Stranger-Strange-Land-Robert-Heinlein/dp/0441788386/',
+        'author': u 'Robert Heinlein'
+    }, u 'A Thousand Splendid Suns': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Thousand-Splendid-Suns-Khaled-Hosseini/dp/159448385X/',
+        'author': u 'Khaled Hosseini'
+    }, u 'In Praise of Idleness': {
+        'referrer': [u '13958'],
+        'counter': 1,
+        'href': u 'http://en.wikipedia.org/wiki/In_Praise_of_Idleness_and_Other_Essays',
+        'author': u 'Bertrand Russell'
+    }, u 'Power': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://youtu.be/L53gjP-TtGE"',
+        'author': u 'Kanye West'
+    }, u 'The Hard Thing About Hard Things': {
+        'referrer': [u '24665', u '15328', u '14388'],
+        'counter': 3,
+        'href': u 'http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205/',
+        'author': u 'Ben Horowitz'
+    }, u 'Adventures in the Screen Trade': {
+        'referrer': [u '13164'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Adventures-Screen-Trade-William-Goldman-ebook/dp/B007Z7UDF8/',
+        'author': u 'William Goldman'
+    }, u 'What Makes Sammy Run?': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/What-Makes-Sammy-Budd-Schulberg/dp/0679734228/',
+        'author': u 'Budd Schulberg'
+    }, u 'The Black Swan': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/',
+        'author': u 'Nassim Taleb'
+    }, u 'Anti-Fragile': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/',
+        'author': u 'Nassim Taleb'
+    }, u 'Dying Every Day': {
+        'referrer': [u '13283'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Dying-Every-Day-Seneca-Court-ebook/dp/B00F8F7OZQ/',
+        'author': u 'James Romm'
+    }, u 'Fight Club': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Fight-Club-Novel-Chuck-Palahniuk/dp/0393327345/',
+        'author': u 'Chuck Palahniuk'
+    }, u 'Radical Acceptance': {
+        'referrer': [u '23905', u '15668'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Radical-Acceptance-Embracing-Heart-Buddha/dp/0553380990/',
+        'author': u 'Tara Brach'
+    }, u 'Jesus\u2019 Son: Stories': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Jesus-Son-Stories-Denis-Johnson/dp/031242874X/',
+        'author': u 'Denis Johnson'
+    }, u 'In Praise of Shadows': {
+        'referrer': [u '21662'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/In-Praise-Shadows-Junichiro-Tanizaki/dp/0918172020/',
+        'author': u 'Junichiro Tanizaki'
+    }, u 'Book of Aphorisms': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Bed-Procrustes-Philosophical-Practical/dp/1400069971/',
+        'author': u 'Nassim Taleb'
+    }, u 'The Art of Fielding': {
+        'referrer': [u '15403'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Art-Fielding-A-Novel/dp/0316126675/',
+        'author': u 'Chad Harbach'
+    }, u 'It\u2019s Not How Good You Are, It\u2019s How Good You Want to Be': {
+        'referrer': [u '21911'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Its-Not-How-Good-Want/dp/0714843377/',
+        'author': u 'Paul Arden'
+    }, u 'The Pleasure of Finding Things Out': {
+        'referrer': [u '22720'],
+        'counter': 1,
+        'href': u 'http://fourhourworkweek.com/2012/04/19/richard-feynman-the-pleasure-of-finding-things-out/',
+        'author': u 'Richard Feynman'
+    }, u 'The Tao of Philosophy': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Philosophy-Alan-Watts-Love-Wisdom/dp/0804832048/',
+        'author': u 'Alan Watts'
+    }, u '<em>True Films</em>': {
+        'referrer': [u '12868'],
+        'counter': 1,
+        'href': u 'http://kk.org/books/true-films.php',
+        'author': u 'Kevin Kelly'
+    }, u 'A Rap on Race': {
+        'referrer': [u '15683'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/A-Rap-Race-James-Baldwin/dp/044021176X/',
+        'author': u 'James Baldwin'
+    }, u 'The Checklist Manifesto': {
+        'referrer': [u '19611', u '15687', u '13321'],
+        'counter': 3,
+        'href': u 'http://www.amazon.com/The-Checklist-Manifesto-Things-Right/dp/0312430000/',
+        'author': u 'Atul Gawande'
+    }, u 'Slow Burn': {
+        'referrer': [u '15050'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Slow-Burn-Faster-Exercising-Slower/dp/0062736744/',
+        'author': u 'Stu Mittleman'
+    }, u 'Station to Station': {
+        'referrer': [u '13958'],
+        'counter': 1,
+        'href': u 'http://stationtostation.com/',
+        'author': u 'Doug Aitken'
+    }, u 'Words That Work': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Words-That-Work-What-People/dp/1401309291/',
+        'author': u 'Frank Luntz'
+    }, u 'Genome': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Genome-Autobiography-Species-23-Chapters-ebook/dp/B00AXXUA7C/',
+        'author': u 'Matt Ridley'
+    }, u 'The 48 Laws of Power': {
+        'referrer': [u '25613'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Laws-Power-Robert-Greene/dp/0140280197/',
+        'author': u 'Robert Green'
+    }, u '<em>The Psychedelic Explorer\u2019s Guide</em>': {
+        'referrer': [u '12868'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Psychedelic-Explorers-Guide-Therapeutic/dp/1594774021/',
+        'author': u 'James Fadiman'
+    }, u 'Nourishing Traditions': {
+        'referrer': [u '26395'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Nourishing-Traditions-Challenges-Politically-Dictocrats/dp/0967089735/',
+        'author': u 'Sally Fallon'
+    }, u 'Getting Past No': {
+        'referrer': [u '21914'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Getting-Past-Negotiating-Difficult-Situations/dp/0553371312/',
+        'author': u 'William Ury'
+    }, u '\u201cHow Do People Get New Ideas?\u201d': {
+        'referrer': [u '23428'],
+        'counter': 1,
+        'href': u 'http://www.technologyreview.com/view/531911/isaac-asimov-asks-how-do-people-get-new-ideas/',
+        'author': u 'Isaac Asimov'
+    }, u 'The Lies of Locke Lamora': {
+        'referrer': [u '18643'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Lies-Locke-Lamora-Gentleman-Bastards/dp/055358894X/',
+        'author': u 'Scott Lynch'
+    }, u 'Warped Passages: Unraveling the Mysteries of the Universe\u2019s Hidden Dimensions': {
+        'referrer': [u '22720'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Warped-Passages-Unraveling-Mysteries-Dimensions/dp/0060531096/',
+        'author': u 'Lisa Randall'
+    }, u 'Bird by Bird': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/',
+        'author': u 'Anne Lamott'
+    }, u 'Love Yourself Like Your Life Depends On It': {
+        'referrer': [u '25091', u '21662', u '18643'],
+        'counter': 3,
+        'href': u 'http://www.amazon.com/gp/product/1478121734/',
+        'author': u 'Kamal Ravikant'
+    }, u 'Anything You Want': {
+        'referrer': [u '23905', u '21914'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/gp/product/1591848261/',
+        'author': u 'Derek Sivers'
+    }, u 'Plenty More': {
+        'referrer': [u '15403'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Plenty-More-Vibrant-Vegetable-Ottolenghi/dp/1607746212/',
+        'author': u 'Yotam Ottolenghi'
+    }, u 'The Hero\u2019s Journey': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Heros-Journey-Campbell-Collected/dp/1608681890/',
+        'author': u 'Joseph Campbell'
+    }, u 'Distress': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Distress-A-Novel-Greg-Egan/dp/1597805416/',
+        'author': u 'Greg Egan'
+    }, u 'The Halo Effect': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Halo-Effect-Business-Delusions/dp/1476784035/',
+        'author': u 'Phil Rosenzweig'
+    }, u 'Let My People Go Surfing: The Education of a Reluctant Businessman': {
+        'referrer': [u '22619'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/exec/obidos/ASIN/0143037838/offsitoftimfe-20',
+        'author': u 'Yvon Chouinard'
+    }, u 'ONE POLICE PLAZA': {
+        'referrer': [u '13677'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/ONE-POLICE-PLAZA-William-Caunitz/dp/0553275232/',
+        'author': u 'William Caunitz'
+    }, u 'Show your Work': {
+        'referrer': [u '12453'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/',
+        'author': u 'Austin Kleon'
+    }, u 'The Painted Bird': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Painted-Bird-Jerzy-Kosinski/dp/080213422X/',
+        'author': u 'Jerzy Kosinski'
+    }, u 'I Capture the Castle': {
+        'referrer': [u '22720'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/I-Capture-Castle-Dodie-Smith/dp/031231616X/',
+        'author': u 'Dodie Smith'
+    }, u 'The Paradox of Choice': {
+        'referrer': [u '19334', u '14141'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Paradox-Choice-Why-More-Less/dp/0060005696/',
+        'author': u 'Barry Schwartz'
+    }, u 'The Everything Store': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219282/',
+        'author': u 'Brad Stone'
+    }, u 'Tough Jews': {
+        'referrer': [u '13321', u '12380'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Tough-Jews-Fathers-Gangster-Dreams/dp/0375705473/',
+        'author': u 'Rich Cohen'
+    }, u 'The Alliance': {
+        'referrer': [u '19611', u '15985'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/The-Alliance-Managing-Talent-Networked/dp/1483014622/',
+        'author': u 'Reid Hoffman'
+    }, u 'The Art of Asking': {
+        'referrer': [u '21662'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Art-Asking-Learned-Worrying/dp/1455581089/',
+        'author': u 'Amanda Palmer'
+    }, u 'If This Is a Man': {
+        'referrer': [u '13283'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/If-This-Man-The-Truce/dp/0349100136/',
+        'author': u 'Primo Levi'
+    }, u 'Benjamin Franklin: An American Life': {
+        'referrer': [u '14141'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Benjamin-Franklin-An-American-Life/dp/074325807X/',
+        'author': u 'Walter Isaacson'
+    }, u 'The Unbreakable Runner': {
+        'referrer': [u '15673'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Unbreakable-Runner-Strength-Conditioning-Lifetime/dp/1937715140/',
+        'author': u 'Brian MacKenzie'
+    }, u 'Leap First': {
+        'referrer': [u '25428'],
+        'counter': 1,
+        'href': u 'http://www.soundstrue.com/store/leap-first-1.html',
+        'author': u 'Seth Godin'
+    }, u 'A History of Western Philosophy': {
+        'referrer': [u '15607'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581/',
+        'author': u 'Bertrand Russell'
+    }, u 'Snow Crash': {
+        'referrer': [u '25428', u '18643'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/1491515058/',
+        'author': u 'Neal Stephenson'
+    }, u 'On the Move': {
+        'referrer': [u '15683'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/On-Move-Life-Oliver-Sacks/dp/0385352549/',
+        'author': u 'Oliver Sacks'
+    }, u 'Screenplay': {
+        'referrer': [u '13232'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Screenplay-Foundations-Screenwriting-Syd-Field-ebook/dp/B000S1LAYG/',
+        'author': u 'Syd Field'
+    }, u 'The Shortness of Life: Seneca on Busyness and The Art of Living Wide Rather Than Living Long': {
+        'referrer': [u '13164'],
+        'counter': 1,
+        'href': u 'http://www.brainpickings.org/2014/09/01/seneca-on-the-shortness-of-life/',
+        'author': u 'Maria Popova'
+    }, u 'How to Get Filthy Rich in Rising Asia': {
+        'referrer': [u '24867'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/exec/obidos/ASIN/1594632332/offsitoftimfe-20',
+        'author': u 'Mohsin Hamid'
+    }, u 'The Origins Of Virtue': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Origins-Virtue-Instincts-Evolution-Cooperation/dp/0140264450/',
+        'author': u 'Matt Ridley'
+    }, u 'The Demon-Haunted World': {
+        'referrer': [u '14565'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/0345409469/',
+        'author': u 'Carl Sagan'
+    }, u 'Meditations: A New Translation': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255/',
+        'author': u 'Marcus Aurelius'
+    }, u 'The Shallows': {
+        'referrer': [u '15668'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Shallows-Internet-Doing-Brains/dp/0393339750/',
+        'author': u 'Nicholas Carr'
+    }, u 'The Four Quadrants': {
+        'referrer': [u '14141'],
+        'counter': 1,
+        'href': u 'http://danjohn.net/2014/09/the-quadrants/',
+        'author': u 'Dan John'
+    }, u 'On Science, Necessity and the Love of God': {
+        'referrer': [u '15683'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/On-Science-Necessity-Love-God/dp/019213941X/',
+        'author': u 'Simone Weil'
+    }, u 'Illusions': {
+        'referrer': [u '25091', u '18643'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Illusions-Adventures-Reluctant-Richard-Bach/dp/0099427869/',
+        'author': u 'Richard Bach'
+    }, u '10% Happier': {
+        'referrer': [u '13854'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/10-Happier-Self-Help-Actually-Works-A/dp/0062265423/',
+        'author': u 'Dan Harris'
+    }, u 'Surely You Must Be Joking Mr. Feynman': {
+        'referrer': [u '18643'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041/',
+        'author': u 'Richard Feynman'
+    }, u 'Guns, Germs, and Steel': {
+        'referrer': [u '25941'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552/',
+        'author': u 'Jared Diamond'
+    }, u 'Desert Solitaire': {
+        'referrer': [u '15683'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Desert-Solitaire-A-Season-Wilderness/dp/0345326490/',
+        'author': u 'Edward Abbey'
+    }, u 'The Language of God': {
+        'referrer': [u '21179'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Language-God-Scientist-Presents/dp/1416542744/',
+        'author': u 'Francis Collins'
+    }, u 'SuperBetter': {
+        'referrer': [u '15681'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/SuperBetter-Revolutionary-Approach-Stronger-Resilient-Powered/dp/1594206368/',
+        'author': u 'Jane McGonigal'
+    }, u 'Mountain Light': {
+        'referrer': [u '15448'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Mountain-Light-Search-Dynamic-Landscape/dp/1578051924/',
+        'author': u 'Galen Rowell'
+    }, u 'Striking Thoughts': {
+        'referrer': [u '18643'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Bruce-Lee-Striking-Thoughts-Library/dp/0804834717/',
+        'author': u 'Bruce Lee'
+    }, u 'Sandman': {
+        'referrer': [u '25783'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=sandman%20neil%20gaiman&linkCode=ur2&tag=offsitoftimfe-20&url=search-alias%3Daps&linkId=AMLHL7FMR6JZGE4E',
+        'author': u 'Neil Gaiman'
+    }, u 'Poor Charlie\u2019s Almanac': {
+        'referrer': [u '18643'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018/',
+        'author': u 'Charlie Munger'
+    }, u 'California': {
+        'referrer': [u '14338'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/California-History-Modern-Library-Chronicles/dp/081297753X/',
+        'author': u 'Kevin Starr'
+    }, u 'The Selfish Gene': {
+        'referrer': [u '15985'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Selfish-Gene-Popular-Science/dp/0192860925/',
+        'author': u 'Richard Dawkins'
+    }, u 'Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748/',
+        'author': u 'Richard Branson'
+    }, u 'Stolen Dance': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://youtu.be/iX-QaNzd-0Y',
+        'author': u 'Milky Chance'
+    }, u 'Zero to One': {
+        'referrer': [u '13614'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/gp/product/B00J6YBOFQ/',
+        'author': u 'Peter Thiel'
+    }, u '<em>The Art of Nonfiction: A Guide for Writers and Readers</em>': {
+        'referrer': [u '12539'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Art-Nonfiction-Writers-Readers/dp/0452282314/',
+        'author': u 'Ayn Rand'
+    }, u 'The Joyous Cosmology': {
+        'referrer': [u '13958'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Joyous-Cosmology-Adventures-Consciousness/dp/1608682048/',
+        'author': u 'Alan Watts'
+    }, u 'Food Rules': {
+        'referrer': [u '23905'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Food-Rules-An-Eaters-Manual/dp/014311638X/',
+        'author': u 'Michael Pollan'
+    }, u 'Hiroshima': {
+        'referrer': [u '14234'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Hiroshima-John-Hersey/dp/0679721037/',
+        'author': u 'John Hersey'
+    }, u 'The Fourth Turning': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Fourth-Turning-American-Prophecy-Rendezvous/dp/0767900464/',
+        'author': u 'William Strauss'
+    }, u 'Getting Things Done': {
+        'referrer': [u '19611', u '14640'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/',
+        'author': u 'David Allen'
+    }, u 'The Effective Executive': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Effective-Executive-Definitive-Harperbusiness/dp/0060833459/',
+        'author': u 'Peter Drucker'
+    }, u 'What to Do When it\u2019s Your Turn (and it\u2019s Always Your Turn)': {
+        'referrer': [u '25428'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/What-When-Your-Turn-Always/dp/1936719320/',
+        'author': u 'Seth Godin'
+    }, u '<em>Becoming a Category of One</em>': {
+        'referrer': [u '12700'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Becoming-Category-One-Extraordinary-Comparison/dp/0470496355/',
+        'author': u 'Joe Calloway'
+    }, u 'The Future of Food is Food': {
+        'referrer': [u '15403'],
+        'counter': 1,
+        'href': u 'http://recode.net/2015/06/08/the-future-of-food-is-food/',
+        'author': u 'Steve Case'
+    }, u 'Tuxedo Park': {
+        'referrer': [u '15448'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Tuxedo-Park-Street-Science-Changed/dp/0684872889/',
+        'author': u 'Jennet Conant'
+    }, u 'The Origin of Species': {
+        'referrer': [u '18643'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Origin-Species-Charles-Darwin/dp/0553214632/',
+        'author': u 'Charles Darwin'
+    }, u 'Siddhartha': {
+        'referrer': [u '18643', u '15328'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Siddhartha-Hermann-Hesse/dp/0553208845/',
+        'author': u 'Hermann Hesse'
+    }, u 'The Name of the Wind': {
+        'referrer': [u '18643', u '13771'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/The-Name-Wind-Kingkiller-Chronicle/dp/0756404746/',
+        'author': u 'Patrick Rothfuss'
+    }, u 'Stumbling on Happiness': {
+        'referrer': [u '15683'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert/dp/1400077427/',
+        'author': u 'Daniel Gilbert'
+    }, u 'The Fish that Ate the Whale: The Life and Time of the Banana King': {
+        'referrer': [u '12380'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Fish-that-Ate-Whale-Americas-ebook/dp/B0071VOLN8/',
+        'author': u 'Rich Cohen'
+    }, u 'How to Be a Star at Work': {
+        'referrer': [u '20335'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/How-Star-Work-Breakthrough-Strategies/dp/0812931696/',
+        'author': u 'Robert Kelley'
+    }, u 'The Unbearable Lightness of Being': {
+        'referrer': [u '14190'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Unbearable-Lightness-Being-Novel/dp/0061148520/',
+        'author': u 'Milan Kundera'
+    }, u 'Daily Rituals': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.audible.com/pd/Bios-Memoirs/Daily-Rituals-Audiobook/B00H574D4A/',
+        'author': u 'Mason Currey'
+    }, u 'Musicophilia': {
+        'referrer': [u '14190'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Musicophilia-Tales-Revised-Expanded-Edition/dp/1400033535',
+        'author': u 'Oliver Sacks'
+    }, u '<em>Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School</em>': {
+        'referrer': [u '12609'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Brain-Rules-Updated-Expanded-Principles/dp/098326337X/',
+        'author': u 'John Medina'
+    }, u 'Outliers': {
+        'referrer': [u '14640'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930%20',
+        'author': u 'Malcom Gladwell'
+    }, u 'Never Eat Alone: And Other Secrets to Success, One Relationship at a Time': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Never-Eat-Alone-Secrets-Relationship/dp/0385512058/',
+        'author': u 'Keith Ferrazzi'
+    }, u 'Blood Meridian': {
+        'referrer': [u '21295'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Blood-Meridian-Evening-Redness-West/dp/0679728759/',
+        'author': u 'Cormac McCarthy'
+    }, u 'A Short History of Nearly Everything': {
+        'referrer': [u '14621'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X/',
+        'author': u 'Bill Bryson'
+    }, u 'The Red Queen': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Red-Queen-Evolution-Human-Nature/dp/0060556579/',
+        'author': u 'Matt Ridley'
+    }, u 'The Artist\u2019s Way \u2013 Morning Pages Journal': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Artists-Morning-Pages-Journal/dp/0874778867/',
+        'author': u 'Julia Cameron'
+    }, u 'The Power Broker': {
+        'referrer': [u '26323'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Power-Broker-Robert-Moses/dp/0394720245/',
+        'author': u 'Robert Caro'
+    }, u 'Mindset': {
+        'referrer': [u '24665', u '13321'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Mindset-The-New-Psychology-Success/dp/0345472322/',
+        'author': u 'Carol Dweck'
+    }, u 'Marco Polo Didn\u2019t Go There': {
+        'referrer': [u '13232'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Marco-Polo-Didnt-There-Revelations/dp/1932361618/',
+        'author': u 'Rolf Potts'
+    }, u 'Future Crimes': {
+        'referrer': [u '13677'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Future-Crimes-Everything-Connected-Vulnerable/dp/0385539002/',
+        'author': u 'Marc Goodman'
+    }, u '<em>Atlas Shrugged</em>': {
+        'referrer': [u '12576'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145/',
+        'author': u 'Ayn Rand'
+    }, u 'The Gormenghast Novels': {
+        'referrer': [u '13771'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Gormenghast-Novels-Titus-Groan-Alone/dp/0879516283/',
+        'author': u 'Mervyn Peake'
+    }, u 'eBay for Dummies': {
+        'referrer': [u '21632'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/eBay-For-Dummies-Marsha-Collier/dp/1118748867',
+        'author': u 'Marsha Collier'
+    }, u 'If This Is a Man and The Truce': {
+        'referrer': [u '19791'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/This-Truce-Penguin-Modern-Classics/dp/0140047239/',
+        'author': u 'Primo Levi'
+    }, u 'Total Freedom': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Total-Freedom-The-Essential-Krishnamurti/dp/0060648805/',
+        'author': u 'Jiddu Krishnamurti'
+    }, u 'For Whom The Bell Tolls': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Whom-Bell-Tolls-Ernest-Hemingway/dp/B001DTWJRE/',
+        'author': u 'Ernest Hemingway'
+    }, u 'Jerusalem': {
+        'referrer': [u '15403'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Jerusalem-Cookbook-Yotam-Ottolenghi/dp/1607743949/',
+        'author': u 'Yotam Ottolenghi'
+    }, u 'Man\u2019s Search for Meaning': {
+        'referrer': [u '15328'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X',
+        'author': u 'Viktor Frankl'
+    }, u 'The Old Man and The Sea': {
+        'referrer': [u '14022'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Old-Man-Sea/dp/0684801221/',
+        'author': u 'Ernest Hemingway'
+    }, u 'The Signature of All Things': {
+        'referrer': [u '15683'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Signature-All-Things-Novel/dp/0143125842/',
+        'author': u 'Elizabeth Gilbert'
+    }, u 'One Monster After Another': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Monster-After-Another-Mercer-Mayer/dp/1879920050/',
+        'author': u 'Mercer Mayer'
+    }, u 'Personal Power': {
+        'referrer': [u '21179'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Personal-Classic-Edition-Anthony-Robbins/dp/B006EQLYG8/',
+        'author': u 'Tony Robbins'
+    }, u '<em>Everyone Loves You When You\u2019re Dead: Journeys into Fame and Madness</em>': {
+        'referrer': [u '12539'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Everyone-Loves-When-Youre-Dead/dp/0061543675/',
+        'author': u 'Neil Strauss'
+    }, u 'The Search for Modern China': {
+        'referrer': [u '24623'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Search-Modern-China-Jonathan-Spence/dp/0393307808/',
+        'author': u 'Jonathan Spence'
+    }, u 'Hitch-22': {
+        'referrer': [u '15607'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Hitch-22-Memoir-Christopher-Hitchens/dp/044654034X/',
+        'author': u 'Christopher Hitchens'
+    }, u 'Speak Like Churchill, Stand Like Lincoln': {
+        'referrer': [u '26323'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Speak-Like-Churchill-Stand-Lincoln/dp/0761563512/',
+        'author': u 'James Humes'
+    }, u 'On the Road': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Road-Jack-Kerouac/dp/B004UZ7SQ0/',
+        'author': u 'Jack Kerouac'
+    }, u 'Life Is Elsewhere': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Life-Is-Elsewhere-Milan-Kundera/dp/0060997028/',
+        'author': u 'Milan Kundera'
+    }, u 'Wilderness Essays': {
+        'referrer': [u '13164'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Wilderness-Essays-John-Muir/dp/1423607120/',
+        'author': u 'John Muir'
+    }, u 'Shogun': {
+        'referrer': [u '24623', u '13321'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Shogun-James-Clavell/dp/0440178002/',
+        'author': u 'James Clavell'
+    }, u 'Epicureans and Stoics': {
+        'referrer': [u '13614'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Epicureans-Stoics-Axios-Institute/dp/1604190000/',
+        'author': u 'Axios Institute'
+    }, u 'Migration for the Benefit of All': {
+        'referrer': [u '24554'],
+        'counter': 1,
+        'href': u 'http://onlinelibrary.wiley.com/doi/10.1111/j.1564-913X.2002.tb00238.x/abstract',
+        'author': u 'Eric Weinstein'
+    }, u 'The Looming Tower': {
+        'referrer': [u '13283'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Looming-Tower-Al-Qaeda-Road/dp/1400030846/',
+        'author': u 'Lawrence Wright'
+    }, u 'The Fountainhead': {
+        'referrer': [u '13283'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/gp/product/0452273331/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0452273331&linkCode=as2&tag=offsitoftimfe-20&linkId=DHBH6DAPUSFZR725"',
+        'author': u 'Ayn Rand'
+    }, u 'Edison \u2013 A Biography': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Edison-Biography-Matthew-Josephson/dp/0965569934/',
+        'author': u 'Matthew Josephson'
+    }, u 'The Story Seminar': {
+        'referrer': [u '14734'],
+        'counter': 1,
+        'href': u 'http://mckeestory.com/',
+        'author': u 'Robert McKee'
+    }, u 'The Psychedelic Explorer\u2019s Guide': {
+        'referrer': [u '19791', u '15328', u '13321'],
+        'counter': 3,
+        'href': u 'http://www.amazon.com/The-Psychedelic-Explorers-Guide-Therapeutic/dp/1594774021/',
+        'author': u 'James Fadiman'
+    }, u 'Ibogaine Explained': {
+        'referrer': [u '19791'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Ibogaine-Explained-Peter-Frank/dp/1484087372/',
+        'author': u 'Peter Frank'
+    }, u '<em>Blink</em>': {
+        'referrer': [u '12700'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669/',
+        'author': u 'Malcolm Gladwell'
+    }, u 'Good to Great and the Social Sectors: A Monograph to Accompany Good to Great': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Good-Great-Social-Sectors-Monograph/dp/0977326403/',
+        'author': u 'Jim Collins'
+    }, u 'Influence': {
+        'referrer': [u '21632', u '18643'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Influence-Psychology-Persuasion-Revised-Edition/dp/006124189X/',
+        'author': u 'Robert Cialdini'
+    }, u '<em>The Monk and the Riddle</em>': {
+        'referrer': [u '13058'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Monk-Riddle-Creating-Making-Living/dp/1578516447/',
+        'author': u 'Randy Komisar'
+    }, u '<em>The Hero with a Thousand Faces</em>': {
+        'referrer': [u '12777'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Thousand-Faces-Collected-Joseph-Campbell/dp/1577315936/',
+        'author': u 'Joseph Campbell'
+    }, u '<em>Never Eat Alone: And Other Secrets to Success, One Relationship at a Time</em>': {
+        'referrer': [u '13102'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Never-Eat-Alone-Secrets-Relationship/dp/0385512058/',
+        'author': u 'Keith Ferrazzi'
+    }, u 'The Fish That Ate the Whale: The Life and Times of America\u2019s Banana King': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Fish-that-Ate-Whale-Americas-ebook/dp/B0071VOLN8/',
+        'author': u 'Rich Cohen'
+    }, u 'The Crossroads of Should and Must': {
+        'referrer': [u '21662'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Crossroads-Should-Must-Passion/dp/0761184880/',
+        'author': u 'Elle Luna'
+    }, u 'Higgs Discovery: The Power of Empty Space': {
+        'referrer': [u '22720'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Higgs-Discovery-Power-Empty-Space/dp/0062300474/',
+        'author': u 'Lisa Randall'
+    }, u 'Vagabonding': {
+        'referrer': [u '26323', u '25805', u '25428', u '24392', u '21179'],
+        'counter': 5,
+        'href': u 'http://www.audible.com/pd/Travel-Adventure/Vagabonding-Audiobook/B00GCHWZHG/',
+        'author': u 'Rolf Potts'
+    }, u 'Pattern Recognition': {
+        'referrer': [u '25428'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Pattern-Recognition-William-Gibson/dp/0425198685/',
+        'author': u 'William Gibson'
+    }, u 'Saxophone Colossus': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://youtu.be/5lWE65FVb4A',
+        'author': u 'Sonny Rollins'
+    }, u 'Tripping over the Truth': {
+        'referrer': [u '21179'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Tripping-Over-Truth-Metabolic-Illuminates/dp/1500600318/',
+        'author': u 'Travis Christofferson'
+    }, u 'Heraclitean Fire': {
+        'referrer': [u '24554'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Heraclitean-Fire-Sketches-Before-Nature/dp/0874700299/',
+        'author': u 'Erwin Chargaff'
+    }, u 'Knocking on Heaven\u2019s Door: How Physics and Scientific Thinking Illuminate the Universe and the Modern World': {
+        'referrer': [u '22720'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Knocking-Heavens-Door-Scientific-Illuminate/dp/0061723738/',
+        'author': u 'Lisa Randall'
+    }, u 'Exploring the World of Lucid Dreaming': {
+        'referrer': [u '14640'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X',
+        'author': u 'Stephen LaBerge'
+    }, u 'Predictably Irrational': {
+        'referrer': [u '15328'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248/',
+        'author': u 'Dan Ariely'
+    }, u 'The Continuum Concept': {
+        'referrer': [u '15505'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Continuum-Concept-Happiness-Development/dp/0201050714/',
+        'author': u 'Jean Liedloff'
+    }, u 'Too Soon Old, Too Late Smart': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Too-Soon-Old-Late-Smart/dp/1569243735/',
+        'author': u 'Gordon Livingston'
+    }, u 'How to Stay Motivated': {
+        'referrer': [u '25428'],
+        'counter': 1,
+        'href': u 'http://www.audible.com/pd/Business/How-to-Stay-Motivated-Audiobook/B002V8MXYK/',
+        'author': u 'Zig Ziglar'
+    }, u '<em>What Technology Wants</em>': {
+        'referrer': [u '12868'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174/',
+        'author': u 'Kevin Kelly'
+    }, u '<em>The Checklist Manifesto: How to Get Things Right</em>': {
+        'referrer': [u '13102'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000/',
+        'author': u 'Atul Gawande'
+    }, u 'The Rational Optimist': {
+        'referrer': [u '25091', u '18643'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-S/dp/0061452068/',
+        'author': u 'Matt Ridley'
+    }, u 'Genghis Khan and the Making of the Modern World': {
+        'referrer': [u '24665'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Genghis-Khan-Making-Modern-World/dp/1491513705/',
+        'author': u 'Jack Weatherford'
+    }, u 'Replay': {
+        'referrer': [u '25428'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Replay-Ken-Grimwood/dp/068816112X/',
+        'author': u 'Ken Grimwood'
+    }, u 'The Drama of the Gifted Child': {
+        'referrer': [u '15505'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Drama-Gifted-Child-Search-Revised/dp/0465016901/',
+        'author': u 'Alice Miller'
+    }, u 'The Social Animal': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Social-Animal-Elliot-Aronson/dp/1429233419/',
+        'author': u 'Elliot Aronson'
+    }, u 'Buddhism Without Beliefs': {
+        'referrer': [u '24623'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Buddhism-Without-Beliefs-Contemporary-Awakening/dp/1573226564/',
+        'author': u 'Stephen Batchelor'
+    }, u '10,000 Hours with Reid Hoffman': {
+        'referrer': [u '15554'],
+        'counter': 1,
+        'href': u 'http://casnocha.com/reid-hoffman-lessons',
+        'author': u 'Ben Casnocha'
+    }, u 'Story': {
+        'referrer': [u '13232'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Story-Structure-Substance-Principles-Screenwriting-ebook/dp/B0042FZVOY/',
+        'author': u 'Robert McKee'
+    }, u 'Surely You\u2019re Joking, Mr. Feynman!': {
+        'referrer': [u '13854'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041/',
+        'author': u 'Richard Feynman'
+    }, u 'The 22 Immutable Laws of Marketing': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/22-Immutable-Laws-Marketing-Explained-ebook/dp/B000FC10HA/',
+        'author': u 'Al Ries'
+    }, u '<em>The Everything Store: Jeff Bezos and the Age of Amazon</em>': {
+        'referrer': [u '13058'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219282/',
+        'author': u 'Brad Stone'
+    }, u 'The Cosmic Serpent': {
+        'referrer': [u '19791'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Jeremy-Narby/e/B001K8G6DQ/',
+        'author': u 'Jeremy Narby'
+    }, u 'Show Your Work!': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/',
+        'author': u 'Austin Kleon'
+    }, u 'The Man Who Sold the Moon and Orphans of the Sky': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Man-Who-Sold-Moon-Orphans-ebook/dp/B00ELJZZ24/',
+        'author': u 'Robert Heinlein'
+    }, u 'Plenty': {
+        'referrer': [u '15403'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Plenty-Vibrant-Vegetable-Recipes-Ottolenghi/dp/1452101248/',
+        'author': u 'Yotam Ottolenghi'
+    }, u 'Goal Setting': {
+        'referrer': [u '25428'],
+        'counter': 1,
+        'href': u 'http://www.audible.com/pd/Business/Goals-Audiobook/B00AFJ0RBS/',
+        'author': u 'Zig Ziglar'
+    }, u 'The Journey Home': {
+        'referrer': [u '19791'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Journey-Home-Radhanath-Swami/dp/1601090560/',
+        'author': u 'Radhanath Swami'
+    }, u '<em>One Monster After Anothe</em>r': {
+        'referrer': [u '12777'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Monster-After-Another-Mercer-Mayer/dp/1879920050/',
+        'author': u 'Mercer Mayer'
+    }, u 'Happy Birthday, Brain Pickings: 7 Things I Learned in 7 Years of Reading, Writing, and Living': {
+        'referrer': [u '13164'],
+        'counter': 1,
+        'href': u 'http://www.brainpickings.org/2013/10/23/7-lessons-from-7-years/',
+        'author': u 'Maria Popova'
+    }, u 'Ernest Hemingway on Writing': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Ernest-Hemingway-Writing-Larry-Phillips/dp/0684854295/',
+        'author': u 'Larry Phillips'
+    }, u 'I Am That': {
+        'referrer': [u '15607'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/I-Am-That-Nisargadatta-Maharaj/dp/0893860468/',
+        'author': u 'Nisargadatta Maharaj'
+    }, u '<em>Snow Crash</em>': {
+        'referrer': [u '12837'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Snow-Crash-Bantam-Spectra-Book/dp/0553380958/',
+        'author': u 'Neal Stephenson'
+    }, u 'Built to Sell': {
+        'referrer': [u '21914'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823/',
+        'author': u 'John Warrillow'
+    }, u 'The Start-up of You': {
+        'referrer': [u '19611'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Start-up-You-Yourself-Transform-ebook/dp/B0050DIWHU/',
+        'author': u 'Reid Hoffman'
+    }, u 'The Power of Persuasion': {
+        'referrer': [u '23415'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Power-Persuasion-Were-Bought/dp/0471763179/',
+        'author': u 'Robert Levine'
+    }, u 'Book of Virtues': {
+        'referrer': [u '14565'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Book-Virtues-William-Bennett/dp/0684835770/',
+        'author': u 'William Bennett'
+    }, u 'Who Says': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://youtu.be/akvu1AOnUIw',
+        'author': u 'John Mayer'
+    }, u 'To Show and To Tell': {
+        'referrer': [u '13232'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Show-Tell-Craft-Literary-Nonfiction/dp/1451696329/',
+        'author': u 'Phillip Lapate'
+    }, u 'Steve Jobs': {
+        'referrer': [u '15554', u '15448'],
+        'counter': 2,
+        'href': u 'http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648545',
+        'author': u 'Walter Isaacson'
+    }, u 'The Sandman': {
+        'referrer': [u '23428'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Sandman-Vol-Preludes-Nocturnes/dp/1401225756/',
+        'author': u 'Neil Gaiman'
+    }, u 'The Fault in Our Stars': {
+        'referrer': [u '13771'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Fault-Stars-John-Green/dp/0525478817/',
+        'author': u 'John Green'
+    }, u 'Gorgeous': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://youtu.be/ghc_fc4R1rI',
+        'author': u 'Kanye West'
+    }, u '<em>Cool Tools: A Catalog of Possibilities</em>': {
+        'referrer': [u '12868'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Cool-Tools-A-Catalog-Possibilities/dp/1940689007/',
+        'author': u 'Kevin Kelly'
+    }, u 'Doing Good Better': {
+        'referrer': [u '23415'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Doing-Good-Better-Effective-Difference/dp/1592409105/',
+        'author': u 'William MacAskill'
+    }, u 'Bad Pharma': {
+        'referrer': [u '13283'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Bad-Pharma-Companies-Mislead-Patients/dp/0865478007/',
+        'author': u 'Ben Goldacre'
+    }, u 'The Control of Nature': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/The-Control-Nature-John-McPhee/dp/0374522596/',
+        'author': u 'John McPhee'
+    }, u '<em>Fooled by Randomness</em>': {
+        'referrer': [u '12837'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/',
+        'author': u 'Nassim Taleb'
+    }, u 'The Clock Of The Long Now': {
+        'referrer': [u '15985'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Clock-The-Long-Now-Responsibility/dp/0465007805/',
+        'author': u 'Stewart Brand'
+    }, u 'The Tipping Point': {
+        'referrer': [u '13321'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624/',
+        'author': u 'Malcolm Gladwell'
+    }, u 'The Origin of Consciousness in the Breakdown of the Bicameral Mind': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072/',
+        'author': u 'Julian Jaynes'
+    }, u 'Innovation and Entrepreneurship': {
+        'referrer': [u '14388'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Innovation-Entrepreneurship-Peter-F-Drucker/dp/0060851139/',
+        'author': u 'Peter Drucker'
+    }, u 'Ready Player One': {
+        'referrer': [u '13771'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Ready-Player-One-A-Novel/dp/0307887448/',
+        'author': u 'Ernest Cline'
+    }, u 'Mating in Captivity: Unlocking Erotic Intelligence': {
+        'referrer': [u '19791'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Mating-Captivity-Unlocking-Erotic-Intelligence/dp/0060753641/',
+        'author': u 'Esther Perel'
+    }, u 'Tao Te Ching': {
+        'referrer': [u '25091'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Tao-Te-Ching-Lao-Tzu/dp/1484090748/',
+        'author': u 'Lao Tzu'
+    }, u 'A Good Man': {
+        'referrer': [u '15328'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Good-Man-Rediscovering-Sargent-Shriver/dp/1250031443/',
+        'author': u 'Mark Shriver'
+    }, u 'A Guide to the Good Life': {
+        'referrer': [u '15985'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/0195374614/',
+        'author': u 'William Irvine'
+    }, u 'The Rise of Superman': {
+        'referrer': [u '13321', u '13321', u '12453'],
+        'counter': 3,
+        'href': u 'http://www.amazon.com/Rise-Superman-Decoding-Ultimate-Performance-ebook/dp/B00BW54XVO/',
+        'author': u 'Steven Kotler'
+    }, u '<em>Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel</em>': {
+        'referrer': [u '12868'],
+        'counter': 1,
+        'href': u 'http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/0812992180/',
+        'author': u 'Rolf Potts'
+    }
+}
