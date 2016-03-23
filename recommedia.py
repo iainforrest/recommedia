@@ -10,7 +10,7 @@
 #-------------------------------------------------------------------------------
 
 import webapp2
-import urllib2, re
+import urllib2, contextlib, re
 import htmlentitydefs
 
 from db_classes import *  #import all the classes defined in db_classes
@@ -29,14 +29,22 @@ podcast_find_pattern = '''
         '''
 
 book_find_pattern = '''
-        <li><a\shref=" #search for <li> item followed by a link
-        (.*?)		         #capture the href (amazon) inside the quotes
-        \?tag.*?>      #but skip the affiliate link
-        (.*?)          #capture the title of the book inside the <a> tags
-        <\/a>
-        \sby\s         #make sure link is followed by " by " this ensures a book link
-        (\w+\W\w+)     #capture the following author name (word,whitespace,word)
-        <\/li>         #searched for text finished with </li>
+        a\shref="  #looks for list item with link
+        (http:\/\/.*?) #gets all books, post, audiobooks
+                #adds the above selection to tuple
+        ".*?>   #
+        (.*?)       #selects the name of the book inside the link
+        <\/a>       #searches for end of link followed by
+        \sby\s      # _by_ which points to a book and not a movie or other
+        (\w+\W\w+)  #selects the authors names word_space_ word
+        <\/li>      #followed by end of line
+        '''
+
+second_book_patern = '''
+        <a\shref="
+        (.*?")
+        .*?>
+        (.*?)$
         '''
 
 db_parent_pattern = 'http\:\/\/w*\.?(.*?)\.com' #matches with or without www
@@ -80,7 +88,7 @@ def get_page(url):
     '''returns unescaped html text from url and
     domain name for the ancestor ndb name'''
     parent_db = get_re(db_parent_pattern, url, '', 'search')
-    with closing(urllib.urlopen(url)) as page:
+    with contextlib.closing(urllib2.urlopen(url)) as page:
         main_page = unescape(page.read().decode('utf-8'))
     try:
         start = main_page.index('<article')
@@ -93,6 +101,7 @@ def get_page(url):
             start, finish = 0,len(main_page)
     else:
         main_page = main_page[start:finish]
+        main_page = main_page.replace(u'\xa0',u' ') #remove bytecode space to space
     return main_page, parent_db
 
 def get_re(pattern, text, flags='', re_type='findall'):
@@ -110,9 +119,65 @@ def get_re(pattern, text, flags='', re_type='findall'):
     else: result = None
     return result if result else None
 
-def process_podcast_page(http):
-    #some code goes in here
+def strip_tag(book):
+    #print book
+    book_href, book_title, book_author = book
+    tag_start = book_href.find(u'?tag')
+    #print tag_start
+    if tag_start != -1:
+        book_href = book_href[:tag_start]
+        #print book_href
+    return (book_href, book_title, book_author)
+
+
+def look_for_multi_books(list_of_books):
+    for book in list_of_books:
+        if '<a href' in book[1]:
+            book_index = list_of_books.index(book)
+            href, title, author = list_of_books.pop(book_index)
+            try:
+                second = get_re(second_book_patern, title, '(?x)', 'findall')[0]
+                new_book = (second[0],second[1],author)
+                first_book = (href, title[:title.find('</a>')], author)
+            except TypeError:
+                new_book = None
+            else:
+                if new_book:
+                    list_of_books.insert(book_index, new_book) # this places the new book after the first which means
+                    #if there is more than two it's keep reducing until all books are extracted.
+                    list_of_books.insert(book_index, first_book)
+    return [strip_tag(book) for book in list_of_books]
+
+def get_books_from_page(podcast_html_page):
+    '''given a podcast show notes page, extract the parent db and the list of books.
+    Assuming that books come in the format of a list, amazon link, title, ' by ' author
+    Books are returned as list of tuples (href, title, author)
+    '''
+    pod_page, parent_db = get_page(podcast_html_page)
     books = get_re(book_find_pattern, pod_page, '(?x)', 'findall')
+    if books: books = look_for_multi_books(books)
+    return books, parent_db
+
+def add_books_to_db(list_of_books, referrer_podcast_id):
+    '''go through list, check if in dict, if so increase counter by 1 and add referrer id to list
+    else add book to dict
+    '''
+    #all_reference_keys = Reference.query().fetch(keys_only=True)
+
+    for href, title, author in list_of_books:
+        reference = Reference.get_by_id(title)
+        if reference:
+            reference.counter +=1
+            reference.referrer.append(referrer_podcast_id)
+        else:
+            reference = Reference(id=title, author = author, href = href)
+        reference.put()
+
+
+def process_podcast_page(podcast):
+    #some code goes in here
+    books, parent_db = get_books_from_page(podcast.href)
+    if books: add_books_to_db(books,podcast.key.id())
 
 
 def process_matches(matched_podcasts, parent_db):
@@ -124,12 +189,15 @@ def process_matches(matched_podcasts, parent_db):
     '''
     all_podcast_keys = Podcast.query().fetch(keys_only=True) #get all podcast keys
 
-    for pod in matched_podcasts:
-        if pod[0] not in all_podcast_keys: #if not then process now
+    for pod_id, pod_href, pod_title in matched_podcasts[:3]:
+        if pod_id not in all_podcast_keys: #if not then process now
             podcast = Podcast(parent= podcastdb_key(parent_db),
-            id=pod[0], #podcast id from post
-            href = pod[1],   #http:// link from post
-            title = pod[2])  #title from between <a>*</a> tags
+            id=pod_id, #podcast id from post
+            href = pod_href,   #http:// link from post
+            title = pod_title)  #title from between <a>*</a> tags
+
+            process_podcast_page(podcast) #currenty just add books to db
+            #in future see below
             '''
             imghref, person, reflist = process_podcast_page(podcast.href)
 #need to create process_podcast_page
@@ -138,6 +206,7 @@ def process_matches(matched_podcasts, parent_db):
             podcast.references = reflist
             '''
             podcast.put()
+
 
 
 

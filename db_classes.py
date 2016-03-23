@@ -9,16 +9,16 @@ class Person(ndb.Model):
     twitter_handle = ndb.StringProperty(default='')
     website = ndb.StringProperty(default='')
     podcast_page = ndb.KeyPropety(kind='Podcast')
-    recommended_books = ndb.KeyProperty(kind='Reference', repeated='True')
+    recommended_books = ndb.KeyProperty(kind='Reference', repeated=True)
 """
 
 class Reference(ndb.Model):
     '''Model for books and other recommended references.
     title of book used as the key'''
-    author = StructureProperty(Person)
+    author = ndb.StringProperty()
     href = ndb.StringProperty()
-    referrer = ndb.KeyProperty(kind='Podcast', repeated='True')
-    counter =ndb.IntegerProperty()
+    referrer = ndb.StringProperty(repeated=True)
+    counter = ndb.IntegerProperty(default=1)
 
 class Podcast(ndb.Model):
     '''Datastore Model for published podcasts. Postcast ids striped from the
