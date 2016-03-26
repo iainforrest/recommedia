@@ -191,10 +191,11 @@ def process_matches(matched_podcasts, parent_db):
     then follow the link, extract the other info and also create recommended books
     before moving onto the next podcast in the list
     '''
-    all_podcast_keys = Podcast.query().fetch(keys_only=True) #get all podcast keys
+    #all_podcast_keys = Podcast.query().fetch(keys_only=True) #get all podcast keys
 
     for pod_id, pod_href, pod_title in matched_podcasts:
-        if pod_id not in all_podcast_keys: #if not then process now
+        is_podcast = Podcast.get_by_id(pod_id)
+        if not is_podcast and pod_id != '13321': #if not then process now
             podcast = Podcast(parent= podcastdb_key(parent_db),
             id=pod_id, #podcast id from post
             href = pod_href,   #http:// link from post
