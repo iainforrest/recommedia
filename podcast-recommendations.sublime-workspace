@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"refe",
+				"referrer"
+			],
+			[
+				"podca",
+				"podcast_id"
+			],
+			[
+				"lo",
+				"logging"
+			],
+			[
 				"re",
 				"referrer_podcast_id"
 			],
@@ -22,10 +34,6 @@
 			[
 				"pod",
 				"pod_href"
-			],
-			[
-				"podca",
-				"podcast_check"
 			],
 			[
 				"process",
@@ -412,10 +420,7 @@
 			}
 		},
 		{
-			"contents": "from google.appengine.api import users  #import google user features to log users in and out\nfrom google.appengine.ext import ndb  #import datastore library\n\n\"\"\"\nclass Person(ndb.Model):\n    '''Sub-class model for Podcast interviewee'''\n    first_name = ndb.StringProperty()\n    last_name = ndb.StringProperty(default='')\n    twitter_handle = ndb.StringProperty(default='')\n    website = ndb.StringProperty(default='')\n    podcast_page = ndb.KeyPropety(kind='Podcast')\n    recommended_books = ndb.KeyProperty(kind='Reference', repeated=True)\n\"\"\"\n\nclass Reference(ndb.Model):\n    '''Model for books and other recommended references.\n    title of book used as the key'''\n    author = ndb.StringProperty()\n    href = ndb.StringProperty()\n    referrer = ndb.StringProperty(repeated=True)\n    counter = ndb.IntegerProperty(default=1)\n\nclass Podcast(ndb.Model):\n    '''Datastore Model for published podcasts. Postcast ids striped from the\n    html page are to be used as key names'''\n    title = ndb.StringProperty()\n    href = ndb.StringProperty()\n    #image_href = ndb.StringProperty()\n    #interviewee = ndb.StructureProperty(Person)\n    #posted_date = ndb.DateTimeProperty()\n    #references =  ndb.StringProperty(repeated=True) #list of link_ids\n",
 			"file": "db_classes.py",
-			"file_size": 1265,
-			"file_write_time": 131030830835839463,
 			"settings":
 			{
 				"buffer_size": 1244,
@@ -439,13 +444,10 @@
 			}
 		},
 		{
-			"contents": "#-------------------------------------------------------------------------------\n# Name:        module1\n# Purpose:\n#\n# Author:      Iain Forrest\n#\n# Created:     17/01/2016\n# Copyright:   (c) Iain Forrest 2016\n# Licence:     <your licence>\n#-------------------------------------------------------------------------------\n\nimport webapp2\nimport urllib2, contextlib, re\nimport htmlentitydefs\n\nfrom db_classes import *  #import all the classes defined in db_classes\n\nhttp_list = ['http://fourhourworkweek.com/podcast/']\n\npodcast_find_pattern = '''\n        <p\\s            #search through html for <p with trailing whitespace\n        id=\"post-       #whitespace is followed by a post ids\n        ([0-9]{5})\"     #Match the 5 number post id and store that\n        .*?<a\\shref=    #Skip any extra characters including newlines until a link is found\n        \"(.*?)\"         #Match the http link inside the \"\"\n        .*?>            #Skip any other characters in the <a> tag. ie. target=\"_blank\"\n        (.*?)<\\/a>      #Match the text before the </a> as the title\n        .*?<\\/p>        #move to end of the post paragraph\n        '''\n\nbook_find_pattern = '''\n        a\\shref=\"  #looks for list item with link\n        (http:\\/\\/.*?) #gets all books, post, audiobooks\n                #adds the above selection to tuple\n        \".*?>   #\n        (.*?)       #selects the name of the book inside the link\n        <\\/a>       #searches for end of link followed by\n        \\sby\\s      # _by_ which points to a book and not a movie or other\n        (\\w+\\W\\w+)  #selects the authors names word_space_ word\n        <\\/li>      #followed by end of line\n        '''\n\nsecond_book_patern = '''\n        <a\\shref=\"\n        (.*?\")\n        .*?>\n        (.*?)$\n        '''\n\ndb_parent_pattern = 'http\\:\\/\\/w*\\.?(.*?)\\.com' #matches with or without www\n\n\ndef podcastdb_key(podcastDB_name = 'fourhourworkweek'):\n    '''Constructs a Datastore key for the DB entry'''\n    return ndb.Key('PodcastDB', podcastDB_name)\n\n\ndef unescape(text):\n    '''Copied from http://effbot.org/zone/re-sub.htm#unescape-html\n    uses re to search through the string and use the internal function fixup\n    to substitute the unicode elements for there character equivilents'''\n    def fixup(m):\n        text = m.group(0)\n        if text[:2] == \"&#\":\n            # character reference\n            try:\n                if text[:3] == \"&#x\":\n                    return unichr(int(text[3:-1], 16))\n                else:\n                    return unichr(int(text[2:-1]))\n            except ValueError:\n                pass\n        else:\n            # named entity\n            try:\n                text = unichr(htmlentitydefs.name2codepoint[text[1:-1]])\n            except KeyError:\n                pass\n        return text # leave as is\n    return re.sub(\"&#?\\w+;\", fixup, text)\n\n\ndef get_database_id(parent_db):\n    db_query = Podcast.query(ancestor=podcastdb_key(parent_db)).order\n\n\ndef get_page(url):\n    '''returns unescaped html text from url and\n    domain name for the ancestor ndb name'''\n    parent_db = get_re(db_parent_pattern, url, '', 'search')\n    with contextlib.closing(urllib2.urlopen(url)) as page:\n        main_page = unescape(page.read().decode('utf-8'))\n    try:\n        start = main_page.index('<article')\n        finish = main_page.index('</article')\n    except ValueError:\n        try:\n            start = main_page.index('<body')\n            finish = main_page.find('</body')\n        except ValueError:\n            start, finish = 0,len(main_page)\n    else:\n        main_page = main_page[start:finish]\n        main_page = main_page.replace(u'\\xa0',u' ') #remove bytecode space to space\n    return main_page, parent_db\n\ndef get_re(pattern, text, flags='', re_type='findall'):\n    '''An abstracted regex function for multi-types\n    Flags are added in the form (?sx) and concat with pattern before compile\n    Currently only set for re_type=='search' and 'findall'(default)\n    Function returns a string if search and a list of strings in findall or None'''\n    pattern = pattern + flags\n    expression = re.compile(pattern)\n    if re_type == 'search':\n        result = expression.search(text)\n        return result.group(1) if result else None #checks for result and returns string if found and none if not\n    elif re_type =='findall':\n        result = expression.findall(text)\n    else: result = None\n    return result if result else None\n\ndef strip_tag(book):\n    #print book\n    book_href, book_title, book_author = book\n    tag_start = book_href.find(u'?tag')\n    #print tag_start\n    if tag_start != -1:\n        book_href = book_href[:tag_start]\n        #print book_href\n    return (book_href, book_title, book_author)\n\n\ndef look_for_multi_books(list_of_books):\n    for book in list_of_books:\n        if '<a href' in book[1]:\n            book_index = list_of_books.index(book)\n            href, title, author = list_of_books.pop(book_index)\n            try:\n                second = get_re(second_book_patern, title, '(?x)', 'findall')[0]\n                new_book = (second[0],second[1],author)\n                first_book = (href, title[:title.find('</a>')], author)\n            except TypeError:\n                new_book = None\n            else:\n                if new_book:\n                    list_of_books.insert(book_index, new_book) # this places the new book after the first which means\n                    #if there is more than two it's keep reducing until all books are extracted.\n                    list_of_books.insert(book_index, first_book)\n    return [strip_tag(book) for book in list_of_books]\n\ndef get_books_from_page(podcast_html_page):\n    '''given a podcast show notes page, extract the parent db and the list of books.\n    Assuming that books come in the format of a list, amazon link, title, ' by ' author\n    Books are returned as list of tuples (href, title, author)\n    '''\n    pod_page, parent_db = get_page(podcast_html_page)\n    books = get_re(book_find_pattern, pod_page, '(?x)', 'findall')\n    if books: books = look_for_multi_books(books)\n    return books, parent_db\n\ndef add_books_to_db(list_of_books, referrer_podcast_id):\n    '''go through list, check if in dict, if so increase counter by 1 and add referrer id to list\n    else add book to dict\n    '''\n    #all_reference_keys = Reference.query().fetch(keys_only=True)\n\n    for href, title, author in list_of_books:\n        reference = Reference.get_by_id(title)\n        if reference:\n            reference.counter +=1\n            reference.referrer.append(referrer_podcast_id)\n        else:\n            reference = Reference(id=title, author = author, href = href, referrer = referrer_podcast_id)\n        reference.put()\n\n\ndef process_podcast_page(podcast):\n    #some code goes in here\n    books, parent_db = get_books_from_page(podcast.href)\n    if books: add_books_to_db(books,podcast.key.id())\n\n\ndef process_matches(matched_podcasts, parent_db):\n    '''Query the datastore for all podcast keys,\n    then loop through the podcasts found from get_page(url) and check to see if the\n    key is in the datastore. If not then assign the details collected from the home page\n    then follow the link, extract the other info and also create recommended books\n    before moving onto the next podcast in the list\n    '''\n    all_podcast_keys = Podcast.query().fetch(keys_only=True) #get all podcast keys\n\n    for pod_id, pod_href, pod_title in matched_podcasts:\n        if pod_id not in all_podcast_keys: #if not then process now\n            podcast = Podcast(parent= podcastdb_key(parent_db),\n            id=pod_id, #podcast id from post\n            href = pod_href,   #http:// link from post\n            title = pod_title)  #title from between <a>*</a> tags\n\n            process_podcast_page(podcast) #currenty just add books to db\n            #in future see below\n            '''\n            imghref, person, reflist = process_podcast_page(podcast.href)\n#need to create process_podcast_page\n            podcast.image_href = imghref\n            podcast.interviewee = person\n            podcast.references = reflist\n            '''\n            podcast.put()\n\n\n\n\n\nclass MainHandler(webapp2.RequestHandler):\n    def get(self):\n        for http in http_list:\n            main_page, parent = get_page(http)\n            podcasts = get_re(podcast_find_pattern, main_page, '(?xs)','findall')\n            #above returns list of podcasts in tuple [(id,href,title),...]\n            if podcasts: process_matches(podcasts, parent)\n\napp = webapp2.WSGIApplication([\n    ('/podcast-check/check',MainHandler)\n], debug=True)\n\n\n",
 			"file": "recommedia.py",
-			"file_size": 8630,
-			"file_write_time": 131030830826368921,
 			"settings":
 			{
-				"buffer_size": 8569,
+				"buffer_size": 8806,
 				"line_ending": "Unix"
 			}
 		},
@@ -529,6 +531,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Iain Forrest/Dropbox/projects/recommedia/offline/books so far",
 		"/C/Users/Iain Forrest/Dropbox/projects/recommedia/offline/html/stan.html",
 		"/C/Users/Iain Forrest/Dropbox/projects/recommedia/offline/podcast-recommendations - Testing.py",
 		"/C/Users/Iain Forrest/dropbox/projects/reflections/lesson_2_reflections.txt",
@@ -855,8 +858,8 @@
 						"selection":
 						[
 							[
-								827,
-								827
+								179,
+								184
 							]
 						],
 						"settings":
@@ -942,15 +945,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8569,
+						"buffer_size": 8806,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6581,
-								6581
+								7032,
+								7032
 							]
 						],
 						"settings":
@@ -961,7 +964,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3024.0,
+						"translation.y": 3114.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

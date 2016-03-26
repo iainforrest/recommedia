@@ -9,6 +9,7 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
+import logging
 import webapp2
 import urllib2, contextlib, re
 import htmlentitydefs
@@ -170,14 +171,17 @@ def add_books_to_db(list_of_books, referrer_podcast_id):
             reference.counter +=1
             reference.referrer.append(referrer_podcast_id)
         else:
-            reference = Reference(id=title, author = author, href = href)
+            reference = Reference(id=title, author = author, href = href, referrer = [referrer_podcast_id])
         reference.put()
 
 
 def process_podcast_page(podcast):
     #some code goes in here
     books, parent_db = get_books_from_page(podcast.href)
-    if books: add_books_to_db(books,podcast.key.id())
+    podcast_id = podcast.key.id()
+    #logging.info('the vale of key.id() is : ' +str(podcast_id))
+    #logging.info('and is type : ' + str(type(podcast_id)))
+    if books: add_books_to_db(books,podcast_id)
 
 
 def process_matches(matched_podcasts, parent_db):
@@ -189,7 +193,7 @@ def process_matches(matched_podcasts, parent_db):
     '''
     all_podcast_keys = Podcast.query().fetch(keys_only=True) #get all podcast keys
 
-    for pod_id, pod_href, pod_title in matched_podcasts[:3]:
+    for pod_id, pod_href, pod_title in matched_podcasts:
         if pod_id not in all_podcast_keys: #if not then process now
             podcast = Podcast(parent= podcastdb_key(parent_db),
             id=pod_id, #podcast id from post
@@ -214,6 +218,7 @@ def process_matches(matched_podcasts, parent_db):
 class MainHandler(webapp2.RequestHandler):
     def get(self):
         for http in http_list:
+            logging.info('This is just for information : ' + http)
             main_page, parent = get_page(http)
             podcasts = get_re(podcast_find_pattern, main_page, '(?xs)','findall')
             #above returns list of podcasts in tuple [(id,href,title),...]
