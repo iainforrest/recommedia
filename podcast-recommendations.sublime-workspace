@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"is",
+				"is_podast"
+			],
+			[
+				"get_",
+				"get_by_id"
+			],
+			[
 				"refe",
 				"referrer"
 			],
@@ -447,7 +455,7 @@
 			"file": "recommedia.py",
 			"settings":
 			{
-				"buffer_size": 8806,
+				"buffer_size": 8860,
 				"line_ending": "Unix"
 			}
 		},
@@ -475,13 +483,21 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 490.0,
-		"last_filter": "git:",
+		"height": 353.0,
+		"last_filter": "comm",
 		"selected_items":
 		[
 			[
-				"git:",
+				"comm",
 				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"git:",
+				"Git: Add All"
 			],
 			[
 				"ins",
@@ -945,15 +961,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8806,
+						"buffer_size": 8860,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7032,
-								7032
+								7187,
+								7187
 							]
 						],
 						"settings":
@@ -964,7 +980,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3114.0,
+						"translation.y": 3330.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

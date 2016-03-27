@@ -167,7 +167,7 @@ def add_books_to_db(list_of_books, referrer_podcast_id):
 
     for href, title, author in list_of_books:
         reference = Reference.get_by_id(title)
-        if reference:
+        if reference and referrer_podcast_id not in reference.referrer:
             reference.counter +=1
             reference.referrer.append(referrer_podcast_id)
         else:
