@@ -28,7 +28,7 @@ h2 {
 	font-family: helvetica;
 	text-align: center;
 	font-size: 28px;
-	color:#fff;
+	color:#000;
 }
 
 h3 {
@@ -42,6 +42,14 @@ h4 {
 	color: #15052D;
 	font-size: 22px;
 	font-weight: bold;
+}
+
+.lesson-idea {
+	background-color: #c9e3ff;
+	border-radius: 20px;
+	padding: 1.5% 5%;
+	margin: 10px;
+	display: block;
 }
 
 .back-to-top {

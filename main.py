@@ -47,12 +47,22 @@ class Handler(webapp2.RequestHandler):
     def render(self, template, **kw):
        self.write(self.render_str(template, **kw))
 
-class MainHandler(Handler):
-    def get(self):
 
-    	podcasts = Podcast.query().fetch()
-        self.render('home.html', podcasts=podcasts)
+
+class MainHandler(Handler):
+  def get(self):
+    podcasts = Podcast.query().fetch()
+    self.render('home.html', podcasts=podcasts)
+
+class RefHandler(Handler):
+  def get(self):
+    references = Reference.query().fetch()
+    podcasts = podcast_dict()
+    self.render('references.html', references=references, podcasts=podcasts)
+
+
 
 app = webapp2.WSGIApplication([
-    ('/', MainHandler)
+    ('/', MainHandler),
+    ('/references/', RefHandler)
 ], debug=True)

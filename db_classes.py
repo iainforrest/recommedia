@@ -15,6 +15,7 @@ class Person(ndb.Model):
 class Reference(ndb.Model):
     '''Model for books and other recommended references.
     title of book used as the key'''
+    title = ndb.StringProperty()
     author = ndb.StringProperty()
     href = ndb.StringProperty()
     referrer = ndb.StringProperty(repeated=True)
@@ -29,3 +30,10 @@ class Podcast(ndb.Model):
     #interviewee = ndb.StructureProperty(Person)
     #posted_date = ndb.DateTimeProperty()
     #references =  ndb.StringProperty(repeated=True) #list of link_ids
+
+def podcast_dict():
+    pod_dict = {}
+    podcasts = Podcast.query().fetch()
+    for pod in podcasts:
+        pod_dict[pod.key.id()] = [pod.title, pod.href]
+    return pod_dict

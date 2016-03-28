@@ -121,13 +121,12 @@ def get_re(pattern, text, flags='', re_type='findall'):
     return result if result else None
 
 def strip_tag(book):
-    #print book
     book_href, book_title, book_author = book
-    tag_start = book_href.find(u'?tag')
-    #print tag_start
+    TAG_RE = re.compile(r'<[^>]+>') #remove html tags in title
+    book_title = TAG_RE.sub('', book_title)
+    tag_start = book_href.find(u'?tag')#remove affiliate link in href
     if tag_start != -1:
         book_href = book_href[:tag_start]
-        #print book_href
     return (book_href, book_title, book_author)
 
 
@@ -171,7 +170,7 @@ def add_books_to_db(list_of_books, referrer_podcast_id):
             reference.counter +=1
             reference.referrer.append(referrer_podcast_id)
         else:
-            reference = Reference(id=title, author = author, href = href, referrer = [referrer_podcast_id])
+            reference = Reference(id=title, title=title, author = author, href = href, referrer = [referrer_podcast_id])
         reference.put()
 
 
@@ -219,7 +218,7 @@ def process_matches(matched_podcasts, parent_db):
 class MainHandler(webapp2.RequestHandler):
     def get(self):
         for http in http_list:
-            logging.info('This is just for information : ' + http)
+            #logging.info('This is just for information : ' + http)
             main_page, parent = get_page(http)
             podcasts = get_re(podcast_find_pattern, main_page, '(?xs)','findall')
             #above returns list of podcasts in tuple [(id,href,title),...]
