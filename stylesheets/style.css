@@ -8,8 +8,8 @@
 
 body {
 	font-family: "georgia", serif;
-	font-size: 16px;
-	line-height: 1.48em;
+	font-size: 14px;
+	line-height: 1.48;
 	color: #2a2a2a;
 	max-width: 1000px;
 	margin: 10px auto;
@@ -26,9 +26,10 @@ h1 {
 
 h2 {
 	font-family: helvetica;
-	text-align: center;
-	font-size: 28px;
+	text-align: left;
+	font-size: 2.5em;
 	color:#000;
+	margin: -10px auto;
 }
 
 h3 {
@@ -44,12 +45,10 @@ h4 {
 	font-weight: bold;
 }
 
-.lesson-idea {
-	background-color: #c9e3ff;
-	border-radius: 20px;
-	padding: 1.5% 5%;
-	margin: 10px;
-	display: block;
+.aligncenter {
+    clear: both;
+    display: block;
+    margin: 0 auto;
 }
 
 .back-to-top {
@@ -74,10 +73,6 @@ h4 {
 	color: #fff;
 }
 
-.book_image {
-	float: left;
-	margin: 30px 30px 30px 10px;
-}
 
 .drop-menu,
 .drop-menu ul {
@@ -168,7 +163,11 @@ h4 {
 	text-align: center;
 }
 
-.menu-background{
+.main-content{
+
+}
+
+.menu-background {
 	background: #507dbc;
 	border-radius: 10px;
 	padding-left: 20px;
@@ -178,6 +177,34 @@ h4 {
 .menu-selected {
 	background: #304A6D;
 }
+
+.primary-list {
+
+}
+
+.ref-description {
+	float: right;
+	width: 73%;
+	padding: 2% 0;
+}
+
+.ref-item {
+	border-bottom: 1px solid;
+	margin: 2%;
+	display: block;
+}
+
+.ref-image-div {
+	float: left;
+	width: 25%;
+	padding: 2% 0 2%;
+}
+
+.ref-image {
+	height: auto;
+	max-width: 90%;
+}
+
 
 #top {
 	padding-top: 30px;
