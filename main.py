@@ -54,9 +54,19 @@ class MainHandler(Handler):
     podcasts = Podcast.query().fetch()
     self.render('home.html', podcasts=podcasts)
 
+# def add_image():
+#   refs = Reference.query().fetch(keys_only=True)
+#   for ref in refs:
+#     refer = Reference.get_by_id(ref.id())
+#     refer.image = "/images/4hourworkweek.jpg"
+#     refer.put()
+
+
 class RefHandler(Handler):
   def get(self):
-    references = Reference.query().order(-Reference.counter).fetch()
+    fetch_no = 10
+    references = Reference.query().order(-Reference.counter).fetch(fetch_no)
+    #add_image()
     podcasts = podcast_dict()
     self.render('references.html', references=references, podcasts=podcasts)
 

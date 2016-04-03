@@ -74,6 +74,11 @@ h4 {
 	color: #fff;
 }
 
+.book_image {
+	float: left;
+	margin: 30px 30px 30px 10px;
+}
+
 .drop-menu,
 .drop-menu ul {
 	list-style: none;

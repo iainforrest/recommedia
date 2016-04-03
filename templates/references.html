@@ -3,21 +3,22 @@
 {% block title %}references {% endblock %}
 
 {% block content %}
-    <div>
-        <h2>Hello World!!</h2>
-    </div>
 
     <div>
         {% for item in references %}
             {% if "amazon" in item.href %}
             <div class="lesson-idea">
-                <h3>Title : {{ item.title }}  <span style="margin: 0 100px">Author : {{ item.author }}</span> </h3>
-                <p>counter: {{ item.counter }}<br/>
-                link : {{ item.href }}<br/>
-                referrers :</p>
+                <div class="book_image">
+                    <a href="{{ item.href }}" target="_blank"><img src="/images/4hourworkweek.jpg"></a>
+                </div>
+                <h2><a href="{{ item.href }}" target="_blank">{{ item.title }}</a></h2>
+                <h4>Author : {{ item.author }}</h4>
+                <p>Number of References: {{ item.counter }}</p>
+                <p>Podcasts :<br/>
                 {% for ref in item.referrer %}
-                <p>{{ podcasts[ref][0] }}</p>
+                    <a href="{{ podcasts[ref]['href'] }}" target="_blank">{{ podcasts[ref]['title'] }}</a><br/>
                 {% endfor %}
+                <br clear="all">
             </div>
             {% endif %}
         {% endfor %}

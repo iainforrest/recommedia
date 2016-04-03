@@ -20,6 +20,7 @@ class Reference(ndb.Model):
     href = ndb.StringProperty()
     referrer = ndb.StringProperty(repeated=True)
     counter = ndb.IntegerProperty(default=1)
+    image = ndb.StringProperty(default="/images/4hourworkweek.jpg")
 
 class Podcast(ndb.Model):
     '''Datastore Model for published podcasts. Postcast ids striped from the
@@ -33,7 +34,7 @@ class Podcast(ndb.Model):
 
 def podcast_dict():
     pod_dict = {}
-    podcasts = Podcast.query().fetch()
+    podcasts = Podcast.query().order()
     for pod in podcasts:
-        pod_dict[pod.key.id()] = [pod.title, pod.href]
+        pod_dict[pod.key.id()] = {'title' : pod.title, 'href' : pod.href}
     return pod_dict
