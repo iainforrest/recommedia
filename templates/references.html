@@ -9,6 +9,7 @@
 
     <div>
         {% for item in references %}
+            {% if "amazon" in item.href %}
             <div class="lesson-idea">
                 <h3>Title : {{ item.title }}  <span style="margin: 0 100px">Author : {{ item.author }}</span> </h3>
                 <p>counter: {{ item.counter }}<br/>
@@ -17,8 +18,8 @@
                 {% for ref in item.referrer %}
                 <p>{{ podcasts[ref][0] }}</p>
                 {% endfor %}
-
             </div>
+            {% endif %}
         {% endfor %}
     </div>
 {% endblock content %}

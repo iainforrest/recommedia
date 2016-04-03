@@ -56,7 +56,7 @@ class MainHandler(Handler):
 
 class RefHandler(Handler):
   def get(self):
-    references = Reference.query().fetch()
+    references = Reference.query().order(-Reference.counter).fetch()
     podcasts = podcast_dict()
     self.render('references.html', references=references, podcasts=podcasts)
 

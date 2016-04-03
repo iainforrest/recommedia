@@ -439,13 +439,10 @@
 			}
 		},
 		{
-			"contents": "{% extends 'base.html' %}\n\n{% block title %}references {% endblock %}\n\n{% block content %}\n    <div>\n        <h2>Hello World!!</h2>\n    </div>\n\n    <div>\n        {% for item in references %}\n            <div class=\"lesson-idea\">\n                <h3>Title : {{ item.title }}  <span style=\"margin: 0 100px\">Author : {{ item.author }}</span> </h3>\n                <p>counter: {{ item.counter }}<br/>\n                link : {{ item.href }}<br/>\n                referrers :</p>\n                {% for ref in item.referrer %}\n                {{ podcasts[ref][0] }}\n                {% endfor %}\n\n            </div>\n        {% endfor %}\n    </div>\n{% endblock content %}\n\n\n\n\n\n\n\n\n\n\n\n",
 			"file": "templates/references.html",
-			"file_size": 709,
-			"file_write_time": 131036309054928265,
 			"settings":
 			{
-				"buffer_size": 674,
+				"buffer_size": 681,
 				"line_ending": "Windows"
 			}
 		},
@@ -508,12 +505,12 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 490.0,
-		"last_filter": "com",
+		"height": 353.0,
+		"last_filter": "comm",
 		"selected_items":
 		[
 			[
-				"com",
+				"comm",
 				"Git: Commit"
 			],
 			[
@@ -521,7 +518,7 @@
 				"Git: Add All"
 			],
 			[
-				"comm",
+				"com",
 				"Git: Commit"
 			],
 			[
@@ -897,15 +894,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 674,
+						"buffer_size": 681,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								536,
-								558
+								594,
+								594
 							]
 						],
 						"settings":
